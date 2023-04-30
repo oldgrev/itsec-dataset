@@ -1,0 +1,972 @@
+Guideline,Section,Topic,Control identifier,Control description
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Providing cyber security leadership and guidance,0714,A CISO is appointed to provide cyber security leadership and guidance for their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing the cyber security program,1478,"The CISO oversees their organisation’s cyber security program and ensures their organisation’s compliance with cyber security policy, standards, regulations and legislation."
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing the cyber security program,1617,The CISO regularly reviews and updates their organisation’s cyber security program to ensure its relevance in addressing cyber threats and harnessing business and cyber security opportunities.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing the cyber security program,0724,The CISO implements cyber security measurement metrics and key performance indicators for their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Coordinating cyber security,0725,"The CISO coordinates cyber security and business alignment through a cyber security steering committee or advisory board, comprising of key cyber security and business executives, which meets formally and on a regular basis."
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Coordinating cyber security,0726,The CISO coordinates security risk management activities between cyber security and business teams.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Reporting on cyber security,0718,The CISO reports directly to their organisation’s senior executive or Board on cyber security matters.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing incident response activities,0733,The CISO is fully aware of all cyber security incidents within their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing incident response activities,1618,The CISO oversees their organisation’s response to cyber security incidents.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Contributing to business continuity and disaster recovery planning,0734,The CISO contributes to the development and maintenance of business continuity and disaster recovery plans for their organisation to ensure that business-critical services are supported appropriately in the event of a disaster.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Developing a cyber security communications strategy,0720,"The CISO develops, implements and maintains a cyber security communications strategy for their organisation."
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Working with suppliers,0731,The CISO oversees cyber supply chain risk management activities for their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Receiving and managing a dedicated cyber security budget,0732,The CISO receives and manages a dedicated cyber security budget for their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing cyber security personnel,0717,The CISO oversees the management of cyber security personnel within their organisation.
+Guidelines for Cyber Security Roles,Chief Information Security Officer,Overseeing cyber security awareness raising,0735,"The CISO oversees the development, implementation and maintenance of their organisation’s cyber security awareness training program."
+Guidelines for Cyber Security Roles,System owners,System ownership and oversight,1071,Each system has a designated system owner.
+Guidelines for Cyber Security Roles,System owners,System ownership and oversight,1525,System owners register each system with its authorising officer.
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,1633,"System owners determine the type, value and security objectives for each system based on an assessment of the impact if it were to be compromised."
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,1634,System owners select controls for each system and tailor them to achieve desired security objectives.
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,1635,System owners implement controls for each system and its operating environment.
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,1636,System owners ensure controls for each system and its operating environment are assessed to determine if they have been implemented correctly and are operating as intended.
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,0027,System owners obtain authorisation to operate each system from its authorising officer based on the acceptance of the security risks associated with its operation.
+Guidelines for Cyber Security Roles,System owners,Protecting systems and their resources,1526,"System owners monitor each system, and associated cyber threats, security risks and controls, on an ongoing basis."
+Guidelines for Cyber Security Roles,System owners,Annual reporting of system security status,1587,System owners report the security status of each system to its authorising officer at least annually.
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Incident management policy,0576,"An incident management policy, and associated incident response plan, is developed, implemented and maintained."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Incident management policy,1784,"The incident management policy, including the associated incident response plan, is exercised at least annually."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Cyber security incident register,0125,"A cyber security incident register is developed, implemented and maintained."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Cyber security incident register,1803,"A cyber security incident register contains the following for each cyber security incident:
+• the date the cyber security incident occurred
+• the date the cyber security incident was discovered
+• a description of the cyber security incident
+• any actions taken in response to the cyber security incident
+• to whom the cyber security incident was reported."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Trusted insider program,1625,"A trusted insider program is developed, implemented and maintained."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Trusted insider program,1626,Legal advice is sought regarding the development and implementation of a trusted insider program.
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Access to sufficient data sources and tools,0120,Cyber security personnel have access to sufficient data sources and tools to ensure that systems can be monitored for key indicators of compromise.
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Reporting cyber security incidents,0123,"Cyber security incidents are reported to an organisation’s Chief Information Security Officer, or one of their delegates, as soon as possible after they occur or are discovered."
+Guidelines for Cyber Security Incidents,Managing cyber security incidents,Reporting cyber security incidents to the ACSC,0140,Cyber security incidents are reported to the ACSC.
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Enacting incident response plans,1819,"Following the identification of a cyber security incident, an organisation’s incident response plan is enacted."
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing data spills,0133,"When a data spill occurs, data owners are advised and access to the data is restricted."
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing malicious code infections,0917,"When malicious code is detected, the following steps are taken to handle the infection:
+• the infected systems are isolated
+• all previously connected media used in the period leading up to the infection are scanned for signs of infection and isolated if necessary
+• antivirus software is used to remove the infection from infected systems and media
+• if the infection cannot be reliably removed, systems are restored from a known good backup or rebuilt."
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing intrusions,0137,Legal advice is sought before allowing intrusion activity to continue on a system for the purpose of collecting further data or evidence.
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing intrusions,1609,System owners are consulted before allowing intrusion activity to continue on a system for the purpose of collecting further data or evidence.
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing intrusions,1731,Planning and coordination of intrusion remediation activities are conducted on a separate system to that which has been compromised.
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing intrusions,1732,"To the extent possible, all intrusion remediation activities are conducted in a coordinated manner during the same planned outage."
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Handling and containing intrusions,1213,"Following intrusion remediation activities, full network traffic is captured for at least seven days and analysed to determine whether the adversary has been successfully removed from the system."
+Guidelines for Cyber Security Incidents,Responding to cyber security incidents,Maintaining the integrity of evidence,0138,"The integrity of evidence gathered during an investigation is maintained by investigators:
+• recording all of their actions
+• maintaining a proper chain of custody
+• following all instructions provided by relevant law enforcement agencies."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1631,"Suppliers of applications, ICT equipment and services associated with systems are identified."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1452,"A supply chain risk assessment is performed for suppliers of applications, ICT equipment and services in order to assess the impact to a system’s security risk profile."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1567,Suppliers identified as high risk by a cyber supply chain risk assessment are not used.
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1568,"Applications, ICT equipment and services are chosen from suppliers that have demonstrated a commitment to the security of their products and services."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1632,"Applications, ICT equipment and services are chosen from suppliers that have a strong track record of transparency and maintaining the security of their own systems and cyber supply chains."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Cyber supply chain risk management activities,1569,"A shared responsibility model is created, documented and shared between suppliers and their customers in order to articulate the security responsibilities of each party."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Supplier relationship management,1785,"A supplier relationship management policy is developed, implemented and maintained."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,Supplier relationship management,1786,"An approved supplier list is developed, implemented and maintained."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Sourcing applications, ICT equipment and services",1787,"Applications, ICT equipment and services are sourced from approved suppliers."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Sourcing applications, ICT equipment and services",1788,"Multiple potential suppliers are identified for sourcing critical applications, ICT equipment and services."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Sourcing applications, ICT equipment and services",1789,Sufficient spares of critical ICT equipment are sourced and kept in reserve.
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Delivery of applications, ICT equipment and services",1790,"Applications, ICT equipment and services are delivered in a manner that maintains their integrity."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Delivery of applications, ICT equipment and services",1791,"The integrity of applications, ICT equipment and services are assessed as part of acceptance of products and services."
+Guidelines for Procurement and Outsourcing,Cyber supply chain risk management,"Delivery of applications, ICT equipment and services",1792,"The authenticity of applications, ICT equipment and services are assessed as part of acceptance of products and services."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Managed services,1736,"A managed service register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Managed services,1737,"A managed service register contains the following for each managed service:
+• managed service provider’s name
+• managed service’s name
+• purpose for using the managed service
+• sensitivity or classification of data involved
+• due date for the next security assessment of the managed service
+• contractual arrangements for the managed service
+• point of contact for users of the managed service
+• 24/7 contact details for the managed service provider."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Assessment of managed service providers,1793,Managed service providers and their managed services undergo a security assessment by an IRAP assessor at least every 24 months.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Outsourced cloud services,1637,"An outsourced cloud service register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Outsourced cloud services,1638,"An outsourced cloud service register contains the following for each outsourced cloud service:
+• cloud service provider’s name
+• cloud service’s name
+• purpose for using the cloud service
+• sensitivity or classification of data involved
+• due date for the next security assessment of the cloud service
+• contractual arrangements for the cloud service
+• point of contact for users of the cloud service
+• 24/7 contact details for the cloud service provider."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Assessment of outsourced cloud service providers,1570,Outsourced cloud service providers and their cloud services undergo a security assessment by an IRAP assessor at least every 24 months.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1395,"Service providers, including any subcontractors, provide an appropriate level of protection for any data entrusted to them or their services."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,0072,"Security requirements associated with the confidentiality, integrity and availability of data are documented in contractual arrangements with service providers and reviewed on a regular and ongoing basis to ensure they remain fit for purpose."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1571,The right to verify compliance with security requirements is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1738,The right to verify compliance with security requirements documented in contractual arrangements with service providers is exercised on a regular and ongoing basis.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1804,Break clauses associated with failure to meet security requirements are documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,0141,The requirement for service providers to report cyber security incidents to a designated point of contact as soon as possible after they occur or are discovered is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1794,A minimum notification period of one month by service providers for significant changes to their own service provider arrangements is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1451,Types of data and its ownership is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1572,"The regions or availability zones where data will be processed, stored and communicated is documented in contractual arrangements with service providers."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1573,Access to all logs relating to an organisation’s data and services is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1574,"The storage of data in a portable manner that allows for backups, service migration and service decommissioning without any loss of data is documented in contractual arrangements with service providers."
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Contractual security requirements with service providers,1575,A minimum notification period of one month for the cessation of any services by a service provider is documented in contractual arrangements with service providers.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Access to systems and data by service providers,1073,An organisation’s systems and data are not accessed or administered by a service provider unless a contractual arrangement exists between the organisation and the service provider to do so.
+Guidelines for Procurement and Outsourcing,Managed services and cloud services,Access to systems and data by service providers,1576,"If an organisation’s systems or data are accessed or administered by a service provider in an unauthorised manner, the organisation is immediately notified."
+Guidelines for Security Documentation,Development and maintenance of security documentation,Cyber security strategy,0039,"A cyber security strategy is developed, implemented and maintained."
+Guidelines for Security Documentation,Development and maintenance of security documentation,Approval of security documentation,0047,Organisational-level security documentation is approved by the Chief Information Security Officer while system-specific security documentation is approved by the system’s authorising officer.
+Guidelines for Security Documentation,Development and maintenance of security documentation,Approval of security documentation,1739,A system’s security architecture is approved prior to the development of the system.
+Guidelines for Security Documentation,Development and maintenance of security documentation,Maintenance of security documentation,0888,Security documentation is reviewed at least annually and includes a ‘current as at [date]’ or equivalent statement.
+Guidelines for Security Documentation,Development and maintenance of security documentation,Communication of security documentation,1602,"Security documentation, including notification of subsequent changes, is communicated to all stakeholders."
+Guidelines for Security Documentation,System-specific security documentation,System security plan,0041,Systems have a system security plan that includes a description of the system and an annex that covers both applicable controls from this document and any additional controls that have been identified.
+Guidelines for Security Documentation,System-specific security documentation,Incident response plan,0043,"Systems have an incident response plan that covers the following:
+• guidelines on what constitutes a cyber security incident
+• the types of cyber security incidents likely to be encountered and the expected response to each type
+• how to report cyber security incidents, internally to an organisation and externally to relevant authorities
+• other parties which need to be informed in the event of a cyber security incident
+• the authority, or authorities, responsible for investigating and responding to cyber security incidents
+• the criteria by which an investigation of a cyber security incident would be requested from a law enforcement agency, the Australian Cyber Security Centre or other relevant authority
+• the steps necessary to ensure the integrity of evidence relating to a cyber security incident
+• system contingency measures or a reference to such details if they are located in a separate document."
+Guidelines for Security Documentation,System-specific security documentation,Continuous monitoring plan,1163,"Systems have a continuous monitoring plan that includes:
+• conducting vulnerability scans for systems at least monthly
+• conducting vulnerability assessments or penetration tests for systems at least annually
+• analysing identified security vulnerabilities to determine their potential impact
+• implementing mitigations based on risk, effectiveness and cost."
+Guidelines for Security Documentation,System-specific security documentation,Security assessment report,1563,"At the conclusion of a security assessment for a system, a security assessment report is produced by the assessor and covers:
+• the scope of the security assessment
+• the system’s strengths and weaknesses
+• security risks associated with the operation of the system
+• the effectiveness of the implementation of controls
+• any recommended remediation actions."
+Guidelines for Security Documentation,System-specific security documentation,Plan of action and milestones,1564,"At the conclusion of a security assessment for a system, a plan of action and milestones is produced by the system owner."
+Guidelines for Physical Security,Facilities and systems,Physical access to systems,0810,Systems are secured in facilities that meet the requirements for a security zone suitable for their sensitivity or classification.
+Guidelines for Physical Security,Facilities and systems,"Physical access to servers, network devices and cryptographic equipment",1053,"Servers, network devices and cryptographic equipment are secured in server rooms or communications rooms that meet the requirements for a security zone suitable for their sensitivity or classification."
+Guidelines for Physical Security,Facilities and systems,"Physical access to servers, network devices and cryptographic equipment",1530,"Servers, network devices and cryptographic equipment are secured in security containers or secure rooms suitable for their sensitivity or classification taking into account the combination of security zones they reside in."
+Guidelines for Physical Security,Facilities and systems,"Physical access to servers, network devices and cryptographic equipment",0813,"Server rooms, communications rooms, security containers and secure rooms are not left in unsecured states."
+Guidelines for Physical Security,Facilities and systems,"Physical access to servers, network devices and cryptographic equipment",1074,"Keys or equivalent access mechanisms to server rooms, communications rooms, security containers and secure rooms are appropriately controlled."
+Guidelines for Physical Security,Facilities and systems,Physical access to network devices in public areas,1296,Physical security is implemented to protect network devices in public areas from physical damage or unauthorised access.
+Guidelines for Physical Security,Facilities and systems,Preventing observation by unauthorised people,0164,"Unauthorised people are prevented from observing systems, in particular workstation displays and keyboards, within facilities."
+Guidelines for Physical Security,ICT equipment and media,Securing ICT equipment and media,0161,ICT equipment and media are secured when not in use.
+Guidelines for Personnel Security,Cyber security awareness training,Providing cyber security awareness training,0252,"Cyber security awareness training is undertaken annually by all personnel and covers:
+• the purpose of the cyber security awareness training
+• security appointments and contacts
+• authorised use of systems and their resources
+• protection of systems and their resources
+• reporting of cyber security incidents and suspected compromises of systems and their resources."
+Guidelines for Personnel Security,Cyber security awareness training,Providing cyber security awareness training,1565,Tailored privileged user training is undertaken annually by all privileged users.
+Guidelines for Personnel Security,Cyber security awareness training,Managing and reporting suspicious changes to banking details or payment requests,1740,"Personnel dealing with banking details and payment requests are advised of what business email compromise is, how to manage such situations and how to report it."
+Guidelines for Personnel Security,Cyber security awareness training,Reporting suspicious contact via online services,0817,Personnel are advised of what suspicious contact via online services is and how to report it.
+Guidelines for Personnel Security,Cyber security awareness training,Posting work information to online services,0820,Personnel are advised to not post work information to unauthorised online services and to report cases where such information is posted.
+Guidelines for Personnel Security,Cyber security awareness training,Posting work information to online services,1146,Personnel are advised to maintain separate work and personal accounts for online services.
+Guidelines for Personnel Security,Cyber security awareness training,Posting personal information to online services,0821,Personnel are advised of security risks associated with posting personal information to online services and are encouraged to use any available privacy settings to restrict who can view such information.
+Guidelines for Personnel Security,Cyber security awareness training,Sending and receiving files via online services,0824,Personnel are advised not to send or receive files via unauthorised online services.
+Guidelines for Personnel Security,Access to systems and their resources,System access requirements,0432,Access requirements for a system and its resources are documented in its system security plan.
+Guidelines for Personnel Security,Access to systems and their resources,System access requirements,0434,"Personnel undergo appropriate employment screening and, where necessary, hold an appropriate security clearance before being granted access to a system and its resources."
+Guidelines for Personnel Security,Access to systems and their resources,System access requirements,0435,Personnel receive any necessary briefings before being granted access to a system and its resources.
+Guidelines for Personnel Security,Access to systems and their resources,User identification,0414,Personnel granted access to a system and its resources are uniquely identifiable.
+Guidelines for Personnel Security,Access to systems and their resources,User identification,0415,"The use of shared user accounts is strictly controlled, and personnel using such accounts are uniquely identifiable."
+Guidelines for Personnel Security,Access to systems and their resources,User identification,1583,Personnel who are contractors are identified as such.
+Guidelines for Personnel Security,Access to systems and their resources,Unprivileged access to systems,0405,"Requests for unprivileged access to systems, applications and data repositories are validated when first requested."
+Guidelines for Personnel Security,Access to systems and their resources,Unprivileged access to systems,1566,Use of unprivileged access is logged.
+Guidelines for Personnel Security,Access to systems and their resources,Unprivileged access to systems,1714,Unprivileged access event logs are stored centrally.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1507,Requests for privileged access to systems and applications are validated when first requested.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1733,Requests for privileged access to data repositories are validated when first requested.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1508,Privileged access to systems and applications is limited to only what is required for users and services to undertake their duties.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1175,"Privileged user accounts are prevented from accessing the internet, email and web services."
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1653,"Privileged service accounts are prevented from accessing the internet, email and web services."
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1649,Just-in-time administration is used for administering systems and applications.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,0445,Privileged users are assigned a dedicated privileged account to be used solely for tasks requiring privileged access.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1263,Unique privileged accounts are used for administering individual server applications.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1509,Privileged access events are logged.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1651,Privileged access event logs are stored centrally.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1650,Privileged account and group management events are logged.
+Guidelines for Personnel Security,Access to systems and their resources,Privileged access to systems,1652,Privileged account and group management event logs are stored centrally.
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,0430,"Access to systems, applications and data repositories is removed or suspended on the same day personnel no longer have a legitimate requirement for access."
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1591,"Access to systems, applications and data repositories is removed or suspended as soon as practicable when personnel are detected undertaking malicious activities."
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1404,Unprivileged access to systems and applications is automatically disabled after 45 days of inactivity.
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1648,Privileged access to systems and applications is automatically disabled after 45 days of inactivity.
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1716,Access to data repositories is automatically disabled after 45 days of inactivity.
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1647,Privileged access to systems and applications is automatically disabled after 12 months unless revalidated.
+Guidelines for Personnel Security,Access to systems and their resources,Suspension of access to systems,1734,Privileged access to data repositories is automatically disabled after 12 months unless revalidated.
+Guidelines for Personnel Security,Access to systems and their resources,Recording authorisation for personnel to access systems,0407,"A secure record is maintained for the life of each system covering:
+• all personnel authorised to access the system, and their user identification
+• who provided authorisation for access
+• when access was granted
+• the level of access that was granted
+• when access, and the level of access, was last reviewed
+• when the level of access was changed, and to what extent (if applicable)
+• when access was withdrawn (if applicable)."
+Guidelines for Personnel Security,Access to systems and their resources,Temporary access to systems,0441,"When personnel are granted temporary access to a system, effective controls are put in place to restrict their access to only data required for them to undertake their duties."
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1610,A method of emergency access to systems is documented and tested at least once when initially implemented and each time fundamental information technology infrastructure changes occur.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1611,Break glass accounts are only used when normal authentication processes cannot be used.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1612,Break glass accounts are only used for specific authorised activities.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1614,Break glass account credentials are changed by the account custodian after they are accessed by any other party.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1615,Break glass accounts are tested after credentials are changed.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1613,Use of break glass accounts is logged.
+Guidelines for Personnel Security,Access to systems and their resources,Emergency access to systems,1715,Break glass event logs are stored centrally.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cabling infrastructure standards,0181,"Cabling infrastructure is installed in accordance with relevant Australian Standards, as directed by the Australian Communications and Media Authority."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Use of fibre-optic cables,1111,Fibre-optic cables are used for cabling infrastructure instead of copper cables.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable register,0211,"A cable register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable register,0208,"A cable register contains the following for each cable:
+• cable identifier
+• cable colour
+• sensitivity/classification
+• source
+• destination
+• location
+• seal numbers (if applicable)."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Floor plan diagrams,1645,"Floor plan diagrams are developed, implemented, maintained and verified on a regular basis."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Floor plan diagrams,1646,"Floor plan diagrams contain the following:
+• cable paths (including ingress and egress points between floors)
+• cable reticulation system and conduit paths
+• floor concentration boxes
+• wall outlet boxes
+• network cabinets."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable labelling processes and procedures,0206,"Cable labelling processes, and supporting cable labelling procedures, are developed, implemented and maintained."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Labelling cables,1096,Cables are labelled at each end with sufficient source and destination details to enable the physical identification and inspection of the cable.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Labelling building management cables,1639,"Building management cables are labelled with their purpose in black writing on a yellow background, with a minimum size of 2.5 cm x 1 cm, and attached at five-metre intervals."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Labelling cables for foreign systems in Australian facilities,1640,Cables for foreign systems installed in Australian facilities are labelled at inspection points.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable colours,1820,Cables for individual systems use a consistent colour.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable colours,0926,OFFICIAL and PROTECTED cables are coloured neither salmon pink nor red.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable inspectability,1112,Cables are inspectable at a minimum of five-metre intervals.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cable inspectability,1119,Cables in TOP SECRET areas are fully inspectable for their entire length.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Common cable reticulation systems,1114,Cable bundles or conduits sharing a common cable reticulation system have a dividing partition or visible gap between each cable bundle and conduit.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Enclosed cable reticulation systems,1130,"In shared facilities, cables are run in an enclosed cable reticulation system."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Covers for enclosed cable reticulation systems,1164,"In shared facilities, conduits or the front covers of ducts, cable trays in floors and ceilings, and associated fittings are clear plastic."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Cables in walls,1115,Cables from cable trays to wall outlet boxes are run in flexible or plastic conduit.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Labelling wall outlet boxes,1095,"Wall outlet boxes denote the systems, cable identifiers and wall outlet box identifier."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Wall outlet box colours,1822,Wall outlet boxes for individual systems use a consistent colour.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Wall outlet box colours,1107,OFFICIAL and PROTECTED wall outlet boxes are coloured neither salmon pink nor red.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Wall outlet box covers,1109,Wall outlet box covers are clear plastic.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Connecting cable reticulation systems to cabinets,1102,Cable reticulation systems leading into cabinets are terminated as close as possible to the cabinet.
+Guidelines for Communications Infrastructure,Cabling infrastructure,Connecting cable reticulation systems to cabinets,1101,"In TOP SECRET areas, cable reticulation systems leading into cabinets in server rooms or communications rooms are terminated as close as possible to the cabinet."
+Guidelines for Communications Infrastructure,Cabling infrastructure,Connecting cable reticulation systems to cabinets,1103,"In TOP SECRET areas, cable reticulation systems leading into cabinets not in server rooms or communications rooms are terminated at the boundary of the cabinet."
+Guidelines for Communications Infrastructure,Emanation security,Emanation security threat assessments in Australia,0248,System owners deploying OFFICIAL or PROTECTED systems with Radio Frequency transmitters that will be co-located with SECRET or TOP SECRET systems contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.
+Guidelines for Communications Infrastructure,Emanation security,Emanation security threat assessments outside Australia,0249,System owners deploying systems or military platforms overseas contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.
+Guidelines for Communications Infrastructure,Emanation security,Early consideration of emanation security threats,0246,An emanation security threat assessment is sought as early as possible in a system’s life cycle as implementing emanation security can have significant cost implications.
+Guidelines for Communications Infrastructure,Emanation security,Electromagnetic interference/electromagnetic compatibility standards,0250,ICT equipment meets industry and government standards relating to electromagnetic interference/electromagnetic compatibility.
+Guidelines for Communications Systems,Telephone systems,Telephone system usage policy,1078,"A telephone system usage policy is developed, implemented and maintained."
+Guidelines for Communications Systems,Telephone systems,Personnel awareness,0229,Personnel are advised of the permitted sensitivity or classification of information that can be discussed over both internal and external telephone systems.
+Guidelines for Communications Systems,Telephone systems,Personnel awareness,0230,Personnel are advised of security risks posed by non-secure telephone systems in areas where sensitive or classified conversations can occur.
+Guidelines for Communications Systems,Telephone systems,Personnel awareness,0231,"When using cryptographic equipment to permit different levels of conversation for different kinds of connections, telephone systems give a visual indication of what kind of connection has been made."
+Guidelines for Communications Systems,Telephone systems,Protecting conversations,0232,Telephone systems used for sensitive or classified conversations encrypt all traffic that passes over external systems.
+Guidelines for Communications Systems,Telephone systems,Cordless telephone systems,0233,Cordless telephone handsets and headsets are not used for sensitive or classified conversations unless all communications are encrypted.
+Guidelines for Communications Systems,Telephone systems,Speakerphones,0235,"Speakerphones are not used on telephone systems in TOP SECRET areas unless the telephone system is located in an audio secure room, the room is audio secure during conversations and only personnel involved in conversations are present in the room."
+Guidelines for Communications Systems,Telephone systems,Off-hook audio protection,0236,Off-hook audio protection features are used on telephone systems in areas where background conversations may exceed the sensitivity or classification that the telephone system is authorised for communicating.
+Guidelines for Communications Systems,Telephone systems,Off-hook audio protection,0931,"In SECRET and TOP SECRET areas, push-to-talk handsets or push-to-talk headsets are used to meet any off-hook audio protection requirements."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video conferencing and Internet Protocol telephony infrastructure hardening,1562,Video conferencing and IP telephony infrastructure is hardened.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video-aware and voice-aware firewalls and proxies,0546,"When video conferencing or IP telephony traffic passes through a gateway containing a firewall or proxy, a video-aware or voice-aware firewall or proxy is used."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Protecting video conferencing and Internet Protocol telephony traffic,0548,Video conferencing and IP telephony calls are established using a secure session initiation protocol.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Protecting video conferencing and Internet Protocol telephony traffic,0547,Video conferencing and IP telephony calls are conducted using a secure real-time transport protocol.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video conferencing unit and Internet Protocol phone authentication,0554,An encrypted and non-replayable two-way authentication scheme is used for call authentication and authorisation.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video conferencing unit and Internet Protocol phone authentication,0553,"Authentication and authorisation is used for all actions on a video conferencing network, including call setup and changing settings."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video conferencing unit and Internet Protocol phone authentication,0555,"Authentication and authorisation is used for all actions on an IP telephony network, including registering a new IP phone, changing phone users, changing settings and accessing voicemail."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Video conferencing unit and Internet Protocol phone authentication,0551,"IP telephony is configured such that:
+• IP phones authenticate themselves to the call controller upon registration
+• auto-registration is disabled and only authorised devices are allowed to access the network
+• unauthorised devices are blocked by default
+• all unused and prohibited functionality is disabled."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Traffic separation,0549,Video conferencing and IP telephony traffic is separated physically or logically from other data traffic.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Traffic separation,0556,"Workstations are not connected to video conferencing units or IP phones unless the workstation or the device uses Virtual Local Area Networks or similar mechanisms to maintain separation between video conferencing, IP telephony and other data traffic."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Internet Protocol phones in public areas,0558,"IP phones used in public areas do not have the ability to access data networks, voicemail and directory services."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Microphones and webcams,0559,Microphones (including headsets and USB handsets) and webcams are not used with non-SECRET workstations in SECRET areas.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Microphones and webcams,1450,Microphones (including headsets and USB handsets) and webcams are not used with non-TOP SECRET workstations in TOP SECRET areas.
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Denial of service response plan,1019,"A denial of service response plan for video conferencing and IP telephony services is developed, implemented and maintained."
+Guidelines for Communications Systems,Video conferencing and Internet Protocol telephony,Denial of service response plan,1805,"A denial of service response plan for video conferencing and IP telephony services contains the following:
+• how to identify signs of a denial-of-service attack
+• how to identify the source of a denial-of-service attack
+• how capabilities can be maintained during a denial-of-service attack
+• what actions can be taken to respond to a denial-of-service attack."
+Guidelines for Communications Systems,Fax machines and multifunction devices,Fax machine and multifunction device usage policy,0588,"A fax machine and MFD usage policy is developed, implemented and maintained."
+Guidelines for Communications Systems,Fax machines and multifunction devices,Sending fax messages,1092,Separate fax machines or MFDs are used for sending sensitive or classified fax messages and all other fax messages.
+Guidelines for Communications Systems,Fax machines and multifunction devices,Sending fax messages,0241,"When sending fax messages, the fax message is encrypted to an appropriate level to be communicated over unsecured telecommunications infrastructure."
+Guidelines for Communications Systems,Fax machines and multifunction devices,Receiving fax messages,1075,The sender of a fax message makes arrangements for the receiver to collect the fax message as soon as possible after it is sent and for the receiver to notify the sender if the fax message does not arrive in an agreed amount of time.
+Guidelines for Communications Systems,Fax machines and multifunction devices,Connecting multifunction devices to networks,0590,Controls for MFDs connected to networks are of a similar strength to those for other devices on networks.
+Guidelines for Communications Systems,Fax machines and multifunction devices,Connecting multifunction devices to both networks and digital telephone systems,0245,A direct connection from an MFD to a digital telephone system is not enabled unless the digital telephone system is authorised to operate at the same sensitivity or classification as the network to which the MFD is connected.
+Guidelines for Communications Systems,Fax machines and multifunction devices,Copying documents on multifunction devices,0589,MFDs connected to networks are not used to copy documents above the sensitivity or classification of connected networks.
+Guidelines for Communications Systems,Fax machines and multifunction devices,Observing fax machine and multifunction device use,1036,Fax machines and MFDs are located in areas where their use can be observed.
+Guidelines for Enterprise Mobility,Mobile device management,Mobile device management policy,1533,"A mobile device management policy is developed, implemented and maintained."
+Guidelines for Enterprise Mobility,Mobile device management,Mobile device management policy,1195,A Mobile Device Management solution is used to ensure mobile device management policy is applied to all mobile devices.
+Guidelines for Enterprise Mobility,Mobile device management,Privately-owned mobile devices,1297,Legal advice is sought prior to allowing privately-owned mobile devices to access systems or data.
+Guidelines for Enterprise Mobility,Mobile device management,Privately-owned mobile devices,1400,"Personnel accessing OFFICIAL and PROTECTED systems or data using a privately-owned mobile device use an ASD-approved platform, a security configuration in accordance with ACSC guidance, and have enforced separation of work and personal data."
+Guidelines for Enterprise Mobility,Mobile device management,Organisation-owned mobile devices,1482,"Personnel accessing systems or data using an organisation-owned mobile device use an ASD-approved platform, a security configuration in accordance with ACSC guidance, and have enforced separation of work and personal data."
+Guidelines for Enterprise Mobility,Mobile device management,Storage encryption,0869,Mobile devices encrypt their internal storage and any removable media.
+Guidelines for Enterprise Mobility,Mobile device management,Communications encryption,1085,Mobile devices encrypt all sensitive or classified data communicated over public network infrastructure.
+Guidelines for Enterprise Mobility,Mobile device management,Bluetooth functionality,1196,OFFICIAL and PROTECTED mobile devices are configured to remain undiscoverable to other Bluetooth devices except during Bluetooth pairing.
+Guidelines for Enterprise Mobility,Mobile device management,Bluetooth functionality,1200,"Bluetooth pairing for OFFICIAL and PROTECTED mobile devices is performed using Secure Connections, preferably with Numeric Comparison if supported."
+Guidelines for Enterprise Mobility,Mobile device management,Bluetooth functionality,1198,Bluetooth pairing for OFFICIAL and PROTECTED mobile devices is performed in a manner such that connections are only made between intended Bluetooth devices.
+Guidelines for Enterprise Mobility,Mobile device management,Bluetooth functionality,1199,Bluetooth pairings for OFFICIAL and PROTECTED mobile devices are removed when there is no longer a requirement for their use.
+Guidelines for Enterprise Mobility,Mobile device management,Maintaining mobile device security,0863,Mobile devices prevent personnel from installing or uninstalling non-approved applications once provisioned.
+Guidelines for Enterprise Mobility,Mobile device management,Maintaining mobile device security,0864,Mobile devices prevent personnel from disabling or modifying security functionality once provisioned.
+Guidelines for Enterprise Mobility,Mobile device management,Maintaining mobile device security,1366,Security updates are applied to mobile devices as soon as they become available.
+Guidelines for Enterprise Mobility,Mobile device management,Connecting mobile devices to the internet,0874,Mobile devices access the internet via a VPN connection to an organisation’s internet gateway rather than via a direct connection to the internet.
+Guidelines for Enterprise Mobility,Mobile device management,Connecting mobile devices to the internet,0705,"When accessing an organisation’s network via a VPN connection, split tunnelling is disabled."
+Guidelines for Enterprise Mobility,Mobile device usage,Mobile device usage policy,1082,"A mobile device usage policy is developed, implemented and maintained."
+Guidelines for Enterprise Mobility,Mobile device usage,Personnel awareness,1083,Personnel are advised of the sensitivity or classification permitted for voice and data communications when using mobile devices.
+Guidelines for Enterprise Mobility,Mobile device usage,"Paging, message services and messaging apps",0240,"Paging, Multimedia Message Service, Short Message Service and messaging apps are not used to communicate sensitive or classified data."
+Guidelines for Enterprise Mobility,Mobile device usage,Using mobile devices in public spaces,0866,Sensitive or classified data is not viewed or communicated in public locations unless care is taken to reduce the chance of the screen of a mobile device being observed.
+Guidelines for Enterprise Mobility,Mobile device usage,Using mobile devices in public spaces,1644,Sensitive or classified phone calls are not conducted in public locations unless care is taken to reduce the chance of conversations being overheard.
+Guidelines for Enterprise Mobility,Mobile device usage,Maintaining control of mobile devices,0871,Mobile devices are kept under continual direct supervision when being actively used.
+Guidelines for Enterprise Mobility,Mobile device usage,Maintaining control of mobile devices,0870,Mobile devices are carried or stored in a secured state when not being actively used.
+Guidelines for Enterprise Mobility,Mobile device usage,Maintaining control of mobile devices,1084,"If unable to carry or store mobile devices in a secured state, they are physically transferred in a security briefcase or an approved multi-use satchel, pouch or transit bag."
+Guidelines for Enterprise Mobility,Mobile device usage,Mobile device emergency sanitisation processes and procedures,0701,"Mobile device emergency sanitisation processes, and supporting mobile device emergency sanitisation procedures, are developed, implemented and maintained."
+Guidelines for Enterprise Mobility,Mobile device usage,Before travelling overseas with mobile devices,1298,Personnel are advised of privacy and security risks when travelling overseas with mobile devices.
+Guidelines for Enterprise Mobility,Mobile device usage,Before travelling overseas with mobile devices,1554,"If travelling overseas with mobile devices to high or extreme risk countries, personnel are:
+• issued with newly provisioned accounts, mobile devices and removable media from a pool of dedicated travel devices which are used solely for work-related activities
+• advised on how to apply and inspect tamper seals to key areas of mobile devices
+• advised to avoid taking any personal mobile devices, especially if rooted or jailbroken."
+Guidelines for Enterprise Mobility,Mobile device usage,Before travelling overseas with mobile devices,1555,"Before travelling overseas with mobile devices, personnel take the following actions:
+• record all details of the mobile devices being taken, such as product types, serial numbers and International Mobile Equipment Identity numbers
+• update all operating systems and applications
+• remove all non-essential accounts, applications and data
+• apply security configuration settings, such as lock screens
+• configure remote locate and wipe functionality
+• enable encryption, including for any removable media
+• backup all important data and configuration settings."
+Guidelines for Enterprise Mobility,Mobile device usage,While travelling overseas with mobile devices,1299,"Personnel take the following precautions when travelling overseas with mobile devices:
+• never leaving mobile devices or removable media unattended for any period of time, including by placing them in checked-in luggage or leaving them in hotel safes
+• never storing credentials with mobile devices that they grant access to, such as in laptop bags
+• never lending mobile devices or removable media to untrusted people, even if briefly
+• never allowing untrusted people to connect their mobile devices or removable media, including for charging
+• never using designated charging stations, wall outlet charging ports or chargers supplied by untrusted people
+• avoiding connecting mobile devices to open or untrusted Wi-Fi networks
+• using a VPN connection to encrypt all mobile device communications
+• using encrypted messaging apps for communications instead of using foreign telecommunication networks
+• disabling any communications capabilities of mobile devices when not in use, such as cellular data, wireless, Bluetooth and Near Field Communication
+• avoiding reuse of removable media once used with other parties’ systems or mobile devices
+• ensuring any removable media used for data transfers are thoroughly checked for malicious code beforehand
+• never using any gifted mobile devices, especially removable media, when travelling or upon returning from travelling."
+Guidelines for Enterprise Mobility,Mobile device usage,While travelling overseas with mobile devices,1088,"Personnel report the potential compromise of mobile devices, removable media or credentials to their organisation as soon as possible, especially if they:
+• provide credentials to foreign government officials
+• decrypt mobile devices for foreign government officials
+• have mobile devices taken out of sight by foreign government officials
+• have mobile devices or removable media stolen that are later returned
+• lose mobile devices or removable media that are later found
+• observe unusual behaviour of mobile devices."
+Guidelines for Enterprise Mobility,Mobile device usage,After travelling overseas with mobile devices,1300,"Upon returning from travelling overseas with mobile devices, personnel take the following actions:
+• sanitise and reset mobile devices, including all removable media
+• decommission any credentials that left their possession during their travel
+• report if significant doubt exists as to the integrity of any mobile devices or removable media."
+Guidelines for Enterprise Mobility,Mobile device usage,After travelling overseas with mobile devices,1556,"If returning from travelling overseas with mobile devices to high or extreme risk countries, personnel take the following additional actions:
+• reset credentials used with mobile devices, including those used for remote access to their organisation’s systems
+• monitor accounts for any indicators of compromise, such as failed logon attempts."
+Guidelines for Evaluated Products,Evaluated product procurement,Evaluated product selection,0280,"If procuring an evaluated product, a product that has completed a PP-based evaluation, including against all applicable PP modules, is selected in preference to one that has completed an EAL-based evaluation."
+Guidelines for Evaluated Products,Evaluated product procurement,Delivery of evaluated products,0285,Evaluated products are delivered in a manner consistent with any delivery procedures defined in associated evaluation documentation.
+Guidelines for Evaluated Products,Evaluated product usage,Installation and configuration of evaluated products,0289,"Evaluated products are installed, configured, administered and operated in accordance with vendor guidance and evaluation documentation."
+Guidelines for ICT Equipment,ICT equipment usage,ICT equipment management policy,1551,"An ICT equipment management policy is developed, implemented and maintained."
+Guidelines for ICT Equipment,ICT equipment usage,ICT equipment register,0336,"An ICT equipment register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for ICT Equipment,ICT equipment usage,Labelling ICT equipment,0294,"ICT equipment, with the exception of high assurance ICT equipment, is labelled with protective markings reflecting its sensitivity or classification."
+Guidelines for ICT Equipment,ICT equipment usage,Classifying ICT equipment,0293,"ICT equipment is classified based on the highest sensitivity or classification of data that it is approved for processing, storing or communicating."
+Guidelines for ICT Equipment,ICT equipment usage,Handling ICT equipment,1599,ICT equipment is handled in a manner suitable for its sensitivity or classification.
+Guidelines for ICT Equipment,ICT equipment maintenance and repairs,On-site maintenance and repairs,0305,Maintenance and repairs of ICT equipment is carried out on site by an appropriately cleared technician.
+Guidelines for ICT Equipment,ICT equipment maintenance and repairs,On-site maintenance and repairs,0307,"If an uncleared technician is used to undertake maintenance or repairs of ICT equipment, the ICT equipment and associated media is sanitised before maintenance or repair work is undertaken."
+Guidelines for ICT Equipment,ICT equipment maintenance and repairs,On-site maintenance and repairs,0306,"If an uncleared technician is used to undertake maintenance or repairs of ICT equipment, the technician is escorted by someone who:
+• is appropriately cleared and briefed
+• takes due care to ensure that data is not disclosed
+• takes all responsible measures to ensure the integrity of the ICT equipment
+• has the authority to direct the technician
+• is sufficiently familiar with the ICT equipment to understand the work being performed."
+Guidelines for ICT Equipment,ICT equipment maintenance and repairs,Off-site maintenance and repairs,0310,ICT equipment maintained or repaired off site is done so at facilities approved for handling the sensitivity or classification of the ICT equipment.
+Guidelines for ICT Equipment,ICT equipment maintenance and repairs,Inspection of ICT equipment following maintenance and repairs,1598,"Following maintenance or repair activities for ICT equipment, the ICT equipment is inspected to confirm it retains its approved software configuration and that no unauthorised modifications have taken place."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,ICT equipment sanitisation processes and procedures,0313,"ICT equipment sanitisation processes, and supporting ICT equipment sanitisation procedures, are developed, implemented and maintained."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,ICT equipment destruction processes and procedures,1741,"ICT equipment destruction processes, and supporting ICT equipment destruction procedures, are developed, implemented and maintained."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising ICT equipment,0311,ICT equipment containing media is sanitised by removing the media from the ICT equipment or by sanitising the media in situ.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising ICT equipment,1742,ICT equipment that cannot be sanitised is destroyed.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,0317,At least three pages of random text with no blank areas are printed on each colour printer cartridge or MFD print drum.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,1219,MFD print drums and image transfer rollers are inspected and destroyed if there is remnant toner which cannot be removed or a print is visible on the image transfer roller.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,1220,Printer and MFD platens are inspected and destroyed if any text or images are retained on the platen.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,1221,Printers and MFDs are checked to ensure no pages are trapped in the paper path due to a paper jam.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,0318,"When unable to sanitise printer cartridges or MFD print drums, they are destroyed as per electrostatic memory devices."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising printers and multifunction devices,1534,Printer ribbons in printers and MFDs are removed and destroyed.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising televisions and computer monitors,1076,Televisions and computer monitors with minor burn-in or image persistence are sanitised by displaying a solid white image on the screen for an extended period of time.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising televisions and computer monitors,1222,Televisions and computer monitors that cannot be sanitised are destroyed.
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising network devices,1223,"Memory in network devices is sanitised using the following processes, in order of preference:
+• following device-specific guidance provided in evaluation documentation
+• following vendor sanitisation guidance
+• loading a dummy configuration file, performing a factory reset and then reinstalling firmware."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising fax machines,1225,"The paper tray of the fax machine is removed, and a fax message with a minimum length of four pages is transmitted, before the paper tray is re-installed to allow a fax summary page to be printed."
+Guidelines for ICT Equipment,ICT equipment sanitisation and destruction,Sanitising fax machines,1226,Fax machines are checked to ensure no pages are trapped in the paper path due to a paper jam.
+Guidelines for ICT Equipment,ICT equipment disposal,ICT equipment disposal processes and procedures,1550,"ICT equipment disposal processes, and supporting ICT equipment disposal procedures, are developed, implemented and maintained."
+Guidelines for ICT Equipment,ICT equipment disposal,Disposal of ICT equipment,1217,"Labels and markings indicating the owner, sensitivity, classification or any other marking that can associate ICT equipment with its prior use are removed prior to its disposal."
+Guidelines for ICT Equipment,ICT equipment disposal,Disposal of ICT equipment,0316,"Following sanitisation, destruction or declassification, a formal administrative decision is made to release ICT equipment, or its waste, into the public domain."
+Guidelines for Media,Media usage,Media management policy,1549,"A media management policy is developed, implemented and maintained."
+Guidelines for Media,Media usage,Removable media usage policy,1359,"A removable media usage policy is developed, implemented and maintained."
+Guidelines for Media,Media usage,Removable media register,1713,"A removable media register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for Media,Media usage,Labelling media,0332,"Media, with the exception of internally mounted fixed media within ICT equipment, is labelled with protective markings reflecting its sensitivity or classification."
+Guidelines for Media,Media usage,Classifying media,0323,"Media is classified to the highest sensitivity or classification of data it stores, unless the media has been classified to a higher sensitivity or classification."
+Guidelines for Media,Media usage,Classifying media,0337,"Media is only used with systems that are authorised to process, store or communicate its sensitivity or classification."
+Guidelines for Media,Media usage,Reclassifying media,0325,"Any media connected to a system with a higher sensitivity or classification than the media is reclassified to the higher sensitivity or classification, unless the media is read-only or the system has a mechanism through which read-only access can be ensured."
+Guidelines for Media,Media usage,Reclassifying media,0330,"Before reclassifying media to a lower sensitivity or classification, the media is sanitised or destroyed, and a formal administrative decision is made to reclassify it."
+Guidelines for Media,Media usage,Handling media,0831,Media is handled in a manner suitable for its sensitivity or classification.
+Guidelines for Media,Media usage,Handling media,1059,All data stored on media is encrypted.
+Guidelines for Media,Media usage,Sanitising media before first use,1600,Media is sanitised before it is used for the first time.
+Guidelines for Media,Media usage,Sanitising media before first use,1642,Media is sanitised before it is reused in a different security domain.
+Guidelines for Media,Media usage,Using media for data transfers,0347,"When transferring data manually between two systems belonging to different security domains, write-once media is used unless the destination system has a mechanism through which read-only access can be ensured."
+Guidelines for Media,Media usage,Using media for data transfers,0947,"When transferring data manually between two systems belonging to different security domains, rewritable media is sanitised after each data transfer."
+Guidelines for Media,Media sanitisation,Media sanitisation processes and procedures,0348,"Media sanitisation processes, and supporting media sanitisation procedures, are developed, implemented and maintained."
+Guidelines for Media,Media sanitisation,Volatile media sanitisation,0351,Volatile media is sanitised by removing its power for at least 10 minutes.
+Guidelines for Media,Media sanitisation,Non-volatile magnetic media sanitisation,0354,Non-volatile magnetic media is sanitised by overwriting it at least once (or three times if pre-2001 or under 15 GB) in its entirety with a random pattern followed by a read back for verification.
+Guidelines for Media,Media sanitisation,Non-volatile magnetic media sanitisation,1065,The host-protected area and device configuration overlay table are reset prior to the sanitisation of non-volatile magnetic hard drives.
+Guidelines for Media,Media sanitisation,Non-volatile magnetic media sanitisation,1067,"The ATA secure erase command is used, in addition to block overwriting software, to ensure the growth defects table of non-volatile magnetic hard drives is overwritten."
+Guidelines for Media,Media sanitisation,Non-volatile erasable programmable read-only memory media sanitisation,0357,Non-volatile EPROM media is sanitised by applying three times the manufacturer’s specified ultraviolet erasure time and then overwriting it at least once in its entirety with a random pattern followed by a read back for verification.
+Guidelines for Media,Media sanitisation,Non-volatile electrically erasable programmable read-only memory media sanitisation,0836,Non-volatile EEPROM media is sanitised by overwriting it at least once in its entirety with a random pattern followed by a read back for verification.
+Guidelines for Media,Media sanitisation,Non-volatile flash memory media sanitisation,0359,Non-volatile flash memory media is sanitised by overwriting it at least twice in its entirety with a random pattern followed by a read back for verification.
+Guidelines for Media,Media sanitisation,Media that cannot be successfully sanitised,1735,Faulty or damaged media that cannot be successfully sanitised is destroyed prior to its disposal.
+Guidelines for Media,Media destruction,Media destruction processes and procedures,0363,"Media destruction processes, and supporting media destruction procedures, are developed, implemented and maintained."
+Guidelines for Media,Media destruction,Media that cannot be sanitised,0350,"The following media types are destroyed prior to their disposal:
+• microfiche and microfilm
+• optical discs
+• programmable read-only memory
+• read-only memory
+• other types of media that cannot be sanitised."
+Guidelines for Media,Media destruction,Media destruction equipment,1361,Security Construction and Equipment Committee-approved equipment or ASIO-approved equipment is used when destroying media.
+Guidelines for Media,Media destruction,Media destruction equipment,1160,"If using degaussers to destroy media, degaussers evaluated by the United States’ National Security Agency are used."
+Guidelines for Media,Media destruction,Media destruction methods,1517,"Equipment that is capable of reducing microform to a fine powder, with resultant particles not showing more than five consecutive characters per particle upon microscopic inspection, is used to destroy microfiche and microfilm."
+Guidelines for Media,Media destruction,Media destruction methods,1722,"Electrostatic memory devices are destroyed using a furnace/incinerator, hammer mill, disintegrator or grinder/sander."
+Guidelines for Media,Media destruction,Media destruction methods,1723,"Magnetic floppy disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, degausser or by cutting."
+Guidelines for Media,Media destruction,Media destruction methods,1724,"Magnetic hard disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, grinder/sander or degausser."
+Guidelines for Media,Media destruction,Media destruction methods,1725,"Magnetic tapes are destroyed using a furnace/incinerator, hammer mill, disintegrator, degausser or by cutting."
+Guidelines for Media,Media destruction,Media destruction methods,1726,"Optical disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, grinder/sander or by cutting."
+Guidelines for Media,Media destruction,Media destruction methods,1727,"Semiconductor memory is destroyed using a furnace/incinerator, hammer mill or disintegrator."
+Guidelines for Media,Media destruction,Media destruction methods,0368,"Media destroyed using a hammer mill, disintegrator, grinder/sander or by cutting results in media waste particles no larger than 9 mm."
+Guidelines for Media,Media destruction,Degaussing magnetic media,0361,Magnetic media is destroyed using a degausser with a suitable magnetic field strength and magnetic orientation.
+Guidelines for Media,Media destruction,Degaussing magnetic media,0362,Product-specific directions provided by degausser manufacturers are followed.
+Guidelines for Media,Media destruction,Degaussing magnetic media,1641,"Following the use of a degausser, magnetic media is physically damaged by deforming any internal platters."
+Guidelines for Media,Media destruction,Supervision of destruction,0370,The destruction of media is performed under the supervision of at least one person cleared to its sensitivity or classification.
+Guidelines for Media,Media destruction,Supervision of destruction,0371,Personnel supervising the destruction of media supervise its handling to the point of destruction and ensure that the destruction is completed successfully.
+Guidelines for Media,Media destruction,Supervision of accountable material destruction,0372,The destruction of media storing accountable material is performed under the supervision of at least two personnel cleared to its sensitivity or classification.
+Guidelines for Media,Media destruction,Supervision of accountable material destruction,0373,"Personnel supervising the destruction of media storing accountable material supervise its handling to the point of destruction, ensure that the destruction is completed successfully and sign a destruction certificate afterwards."
+Guidelines for Media,Media destruction,Outsourcing media destruction,0839,The destruction of media storing accountable material is not outsourced.
+Guidelines for Media,Media destruction,Outsourcing media destruction,0840,"When outsourcing the destruction of media storing non-accountable material, a National Association for Information Destruction AAA certified destruction service with endorsements, as specified in ASIO’s Protective Security Circular-167, is used."
+Guidelines for Media,Media disposal,Media disposal processes and procedures,0374,"Media disposal processes, and supporting media disposal procedures, are developed, implemented and maintained."
+Guidelines for Media,Media disposal,Disposal of media,0378,"Labels and markings indicating the owner, sensitivity, classification or any other marking that can associate media with its prior use are removed prior to its disposal."
+Guidelines for Media,Media disposal,Disposal of media,0375,"Following sanitisation, destruction or declassification, a formal administrative decision is made to release media, or its waste, into the public domain."
+Guidelines for System Hardening,Operating system hardening,Operating system selection,1743,"Operating systems are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products."
+Guidelines for System Hardening,Operating system hardening,Operating system releases and versions,1407,"The latest release, or the previous release, of operating systems are used."
+Guidelines for System Hardening,Operating system hardening,Operating system releases and versions,1408,"Where supported, 64-bit versions of operating systems are used."
+Guidelines for System Hardening,Operating system hardening,Standard Operating Environments,1406,SOEs are used for workstations and servers.
+Guidelines for System Hardening,Operating system hardening,Standard Operating Environments,1608,SOEs provided by third parties are scanned for malicious code and configurations.
+Guidelines for System Hardening,Operating system hardening,Standard Operating Environments,1588,SOEs are reviewed and updated at least annually.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1409,ACSC and vendor guidance is implemented to assist in hardening the configuration of operating systems.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,0380,"Unneeded accounts, components, services and functionality of operating systems are disabled or removed."
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,0383,"Default accounts or credentials for operating systems, including for any pre-configured accounts, are changed."
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,0341,Automatic execution features for removable media are disabled.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1654,Internet Explorer 11 is disabled or removed.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1655,.NET Framework 3.5 (includes .NET 2.0 and 3.0) is disabled or removed.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1492,Operating system exploit protection functionality is enabled.
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1745,"Early Launch Antimalware, Secure Boot, Trusted Boot and Measured Boot functionality is enabled."
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1584,"Unprivileged users are prevented from bypassing, disabling or modifying security functionality of operating systems."
+Guidelines for System Hardening,Operating system hardening,Hardening operating system configurations,1491,"Unprivileged users are prevented from running script execution engines, including:
+• Windows Script Host (cscript.exe and wscript.exe)
+• PowerShell (powershell.exe, powershell_ise.exe and pwsh.exe)
+• Command Prompt (cmd.exe)
+• Windows Management Instrumentation (wmic.exe)
+• Microsoft Hypertext Markup Language (HTML) Application Host (mshta.exe)."
+Guidelines for System Hardening,Operating system hardening,Application management,1592,Unprivileged users do not have the ability to install unapproved software.
+Guidelines for System Hardening,Operating system hardening,Application management,0382,Unprivileged users do not have the ability to uninstall or disable approved software.
+Guidelines for System Hardening,Operating system hardening,Application control,0843,Application control is implemented on workstations.
+Guidelines for System Hardening,Operating system hardening,Application control,1490,Application control is implemented on internet-facing servers.
+Guidelines for System Hardening,Operating system hardening,Application control,1656,Application control is implemented on non-internet-facing servers.
+Guidelines for System Hardening,Operating system hardening,Application control,1657,"Application control restricts the execution of executables, software libraries, scripts, installers, compiled HTML, HTML applications and control panel applets to an organisation-approved set."
+Guidelines for System Hardening,Operating system hardening,Application control,1658,Application control restricts the execution of drivers to an organisation-approved set.
+Guidelines for System Hardening,Operating system hardening,Application control,0955,"Application control is implemented using cryptographic hash rules, publisher certificate rules or path rules."
+Guidelines for System Hardening,Operating system hardening,Application control,1582,Application control rulesets are validated on an annual or more frequent basis.
+Guidelines for System Hardening,Operating system hardening,Application control,1471,"When implementing application control using publisher certificate rules, both publisher names and product names are used."
+Guidelines for System Hardening,Operating system hardening,Application control,1392,"When implementing application control using path rules, only approved users can modify approved files and write to approved folders."
+Guidelines for System Hardening,Operating system hardening,Application control,1746,"When implementing application control using path rules, only approved users can change file system permissions for approved files and folders."
+Guidelines for System Hardening,Operating system hardening,Application control,1544,Microsoft’s ‘recommended block rules’ are implemented.
+Guidelines for System Hardening,Operating system hardening,Application control,1659,Microsoft’s ‘recommended driver block rules’ are implemented.
+Guidelines for System Hardening,Operating system hardening,Application control,0846,"All users (with the exception of local administrator accounts and break glass accounts) cannot disable, bypass or be exempted from application control."
+Guidelines for System Hardening,Operating system hardening,Application control,1660,Allowed and blocked execution events on workstations are logged.
+Guidelines for System Hardening,Operating system hardening,Application control,1661,Allowed and blocked execution events on internet-facing servers are logged.
+Guidelines for System Hardening,Operating system hardening,Application control,1662,Allowed and blocked execution events on non-internet-facing servers are logged.
+Guidelines for System Hardening,Operating system hardening,Application control,1663,Application control event logs are stored centrally.
+Guidelines for System Hardening,Operating system hardening,PowerShell,1621,Windows PowerShell 2.0 is disabled or removed.
+Guidelines for System Hardening,Operating system hardening,PowerShell,1622,PowerShell is configured to use Constrained Language Mode.
+Guidelines for System Hardening,Operating system hardening,PowerShell,1623,"PowerShell is configured to use module logging, script block logging and transcription functionality."
+Guidelines for System Hardening,Operating system hardening,PowerShell,1624,PowerShell script block logs are protected by Protected Event Logging functionality.
+Guidelines for System Hardening,Operating system hardening,PowerShell,1664,Blocked PowerShell script execution events are logged.
+Guidelines for System Hardening,Operating system hardening,PowerShell,1665,PowerShell event logs are stored centrally.
+Guidelines for System Hardening,Operating system hardening,Host-based Intrusion Prevention System,1341,A HIPS is implemented on workstations.
+Guidelines for System Hardening,Operating system hardening,Host-based Intrusion Prevention System,1034,A HIPS is implemented on critical servers and high-value servers.
+Guidelines for System Hardening,Operating system hardening,Software firewall,1416,A software firewall is implemented on workstations and servers to restrict inbound and outbound network connections to an organisation-approved set of applications and services.
+Guidelines for System Hardening,Operating system hardening,Antivirus software,1417,"Antivirus software is implemented on workstations and servers with:
+• signature-based detection functionality enabled and set to a high level
+• heuristic-based detection functionality enabled and set to a high level
+• reputation rating functionality enabled
+• ransomware protection functionality enabled
+• detection signatures configured to update on at least a daily basis
+• regular scanning configured for all fixed disks and removable media."
+Guidelines for System Hardening,Operating system hardening,Device access control software,1418,"If there is no business requirement for reading from removable media and devices, such functionality is disabled via the use of device access control software or by disabling external communication interfaces."
+Guidelines for System Hardening,Operating system hardening,Device access control software,0343,"If there is no business requirement for writing to removable media and devices, such functionality is disabled via the use of device access control software or by disabling external communication interfaces."
+Guidelines for System Hardening,Operating system hardening,Device access control software,0345,External communication interfaces that allow DMA are disabled.
+Guidelines for System Hardening,Operating system hardening,Operating system event logging,0582,"The following events are logged for operating systems:
+• application and operating system crashes and error messages
+• changes to security policies and system configurations
+• successful user logons and logoffs, failed user logons and account lockouts
+• failures, restarts and changes to important processes and services
+• requests to access internet resources
+• security product-related events
+• system startups and shutdowns."
+Guidelines for System Hardening,Operating system hardening,Operating system event logging,1747,Operating system event logs are stored centrally.
+Guidelines for System Hardening,User application hardening,User application selection,0938,"User applications are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products."
+Guidelines for System Hardening,User application hardening,User application releases,1467,"The latest release of office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are used."
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1806,"Default accounts or credentials for user applications, including for any pre-configured accounts, are changed."
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1412,"ACSC or vendor hardening guidance for web browsers, Microsoft Office and PDF software is implemented."
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1470,"Unneeded components, services and functionality of office productivity suites, web browsers, email clients, PDF software and security products are disabled or removed."
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1235,"Add-ons, extensions and plug-ins for office productivity suites, web browsers, email clients, PDF software and security products are restricted to an organisation-approved set."
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1667,Microsoft Office is blocked from creating child processes.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1668,Microsoft Office is blocked from creating executable content.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1669,Microsoft Office is blocked from injecting code into other processes.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1542,Microsoft Office is configured to prevent activation of Object Linking and Embedding packages.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1823,Office productivity suite security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1486,Web browsers do not process Java from the internet.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1485,Web browsers do not process web advertisements from the internet.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1666,Internet Explorer 11 does not process content from the internet.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1585,Web browser security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1670,PDF software is blocked from creating child processes.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1824,PDF software security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1601,Microsoft’s Attack Surface Reduction rules are implemented.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1748,Email client security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Hardening user application configurations,1825,Security product security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1671,Microsoft Office macros are disabled for users that do not have a demonstrated business requirement.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1488,Microsoft Office macros in files originating from the internet are blocked.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1672,Microsoft Office macro antivirus scanning is enabled.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1673,Microsoft Office macros are blocked from making Win32 API calls.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1674,"Only Microsoft Office macros running from within a sandboxed environment, a Trusted Location or that are digitally signed by a trusted publisher are allowed to execute."
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1487,Only privileged users responsible for validating that Microsoft Office macros are free of malicious code can write to and modify content within Trusted Locations.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1675,Microsoft Office macros digitally signed by an untrusted publisher cannot be enabled via the Message Bar or Backstage View.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1676,Microsoft Office’s list of trusted publishers is validated on an annual or more frequent basis.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1489,Microsoft Office macro security settings cannot be changed by users.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1677,Allowed and blocked Microsoft Office macro execution events are logged.
+Guidelines for System Hardening,User application hardening,Microsoft Office macros,1678,Microsoft Office macro event logs are stored centrally.
+Guidelines for System Hardening,Server application hardening,Server application selection,1826,"Server applications are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products."
+Guidelines for System Hardening,Server application hardening,Server application releases,1483,The latest release of internet-facing server applications are used.
+Guidelines for System Hardening,Server application hardening,Hardening server application configurations,1246,ACSC or vendor hardening guidance for server applications is implemented.
+Guidelines for System Hardening,Server application hardening,Hardening server application configurations,1260,"Default accounts or credentials for server applications, including for any pre-configured accounts, are changed."
+Guidelines for System Hardening,Server application hardening,Hardening server application configurations,1247,"Unneeded accounts, components, services and functionality of server applications are disabled or removed."
+Guidelines for System Hardening,Server application hardening,Hardening server application configurations,1245,All temporary installation files and logs created during server application installation processes are removed after server applications have been installed.
+Guidelines for System Hardening,Server application hardening,Restricting privileges for server applications,1249,Server applications are configured to run as a separate account with the minimum privileges needed to perform their functions.
+Guidelines for System Hardening,Server application hardening,Restricting privileges for server applications,1250,The accounts under which server applications run have limited access to their underlying server’s file system.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services domain controllers,1827,Microsoft AD DS domain controllers are administered using dedicated domain administrator user accounts that are not used to administer other systems.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services domain controllers,1828,The Print Spooler service is disabled on Microsoft AD DS domain controllers.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services domain controllers,1829,Passwords and cpasswords are not used in Group Policy Preferences.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services domain controllers,1830,security-related events for Microsoft AD DS are logged.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services domain controllers,1831,Microsoft AD DS event logs are stored centrally.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1832,Only service accounts and computer accounts are configured with Service Principal Names (SPNs).
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1833,Service accounts are provisioned with the minimum privileges required and are not members of the domain administrators group or similar highly privileged groups.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1834,Duplicate SPNs do not exist within the domain.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1835,Privileged user accounts are configured as sensitive and cannot be delegated.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1836,User accounts require Kerberos pre-authentication.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1837,User accounts are not configured with password never expires or password not required.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1838,The UserPassword attribute for user accounts is not used.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1839,Account properties accessible by unprivileged users are not used to store passwords.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1840,User account passwords do not use reversible encryption.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1841,Unprivileged user accounts cannot add machines to the domain.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1842,Dedicated service accounts are used to add machines to the domain.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1843,"User accounts with unconstrained delegation are reviewed at least annually, and those without an associated Kerberos SPN or demonstrated business requirement are removed."
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services account hardening,1844,Computer accounts that are not Microsoft AD SD domain controllers are not trusted for delegation to services.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services security group memberships,1620,Privileged user accounts are members of the Protected Users security group.
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services security group memberships,1845,"When a user account is disabled, it is removed from all security group memberships."
+Guidelines for System Hardening,Server application hardening,Microsoft Active Directory Domain Services security group memberships,1846,The Pre-Windows 2000 Compatible Access security group does not contain user accounts.
+Guidelines for System Hardening,Authentication hardening,Authenticating to systems,1546,Users are authenticated before they are granted access to a system and its resources.
+Guidelines for System Hardening,Authentication hardening,Insecure authentication methods,1603,Authentication methods susceptible to replay attacks are disabled.
+Guidelines for System Hardening,Authentication hardening,Insecure authentication methods,1055,LAN Manager and NT LAN Manager authentication methods are disabled.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,0974,Multi-factor authentication is used to authenticate unprivileged users of systems.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1173,Multi-factor authentication is used to authenticate privileged users of systems.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1504,Multi-factor authentication is used by an organisation’s users if they authenticate to their organisation’s internet-facing services.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1679,"Multi-factor authentication is used by an organisation’s users if they authenticate to third-party internet-facing services that process, store or communicate their organisation's sensitive data."
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1680,"Multi-factor authentication (where available) is used by an organisation’s users if they authenticate to third-party internet-facing services that process, store or communicate their organisation's non-sensitive data."
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1681,Multi-factor authentication is enabled by default for non-organisational users (but users can choose to opt out) if they authenticate to an organisation’s internet-facing services.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1505,Multi-factor authentication is used to authenticate users accessing important data repositories.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1401,"Multi-factor authentication uses either: something users have and something users know, or something users have that is unlocked by something users know or are."
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1682,Multi-factor authentication is phishing-resistant.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1559,"Memorised secrets used for multi-factor authentication are a minimum of 6 characters, unless more stringent requirements apply."
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1683,Successful and unsuccessful multi-factor authentication events are logged.
+Guidelines for System Hardening,Authentication hardening,Multi-factor authentication,1684,Multi-factor authentication event logs are stored centrally.
+Guidelines for System Hardening,Authentication hardening,Single-factor authentication,0417,"When systems cannot support multi-factor authentication, single-factor authentication using passphrases is implemented instead."
+Guidelines for System Hardening,Authentication hardening,Single-factor authentication,0421,"Passphrases used for single-factor authentication are at least 4 random words with a total minimum length of 14 characters, unless more stringent requirements apply."
+Guidelines for System Hardening,Authentication hardening,Single-factor authentication,1558,"Passphrases used for single-factor authentication are not a list of categorised words; do not form a real sentence in a natural language; and are not constructed from song lyrics, movies, literature or any other publicly available material."
+Guidelines for System Hardening,Authentication hardening,Setting credentials for user accounts,1593,Users provide sufficient evidence to verify their identity when requesting new credentials.
+Guidelines for System Hardening,Authentication hardening,Setting credentials for user accounts,1227,Credentials set for user accounts are randomly generated.
+Guidelines for System Hardening,Authentication hardening,Setting credentials for user accounts,1594,"Credentials are provided to users via a secure communications channel or, if not possible, split into two parts with one part provided to users and the other part provided to supervisors."
+Guidelines for System Hardening,Authentication hardening,Setting credentials for user accounts,1595,Credentials provided to users are changed on first use.
+Guidelines for System Hardening,Authentication hardening,Setting credentials for user accounts,1596,"Credentials, in the form of memorised secrets, are not reused by users across different systems."
+Guidelines for System Hardening,Authentication hardening,Setting credentials for local administrator accounts and service accounts,1685,"Credentials for local administrator accounts and service accounts are long, unique, unpredictable and managed."
+Guidelines for System Hardening,Authentication hardening,Setting credentials for local administrator accounts and service accounts,1619,Service accounts are created as group Managed Service Accounts.
+Guidelines for System Hardening,Authentication hardening,Setting credentials for local administrator accounts and service accounts,1795,Credentials for local administrator accounts and service accounts are a minimum of 30 characters.
+Guidelines for System Hardening,Authentication hardening,Changing credentials,1590,"Credentials are changed if:
+• they are directly compromised
+• they are suspected of being compromised
+• they appear in an online data breach database
+• they are discovered stored on networks in the clear
+• they are discovered being transferred across networks in the clear
+• membership of a shared account changes
+• they have not been changed in the past 12 months."
+Guidelines for System Hardening,Authentication hardening,Changing credentials,1847,"Credentials for the Kerberos Key Distribution Center’s service account (KRBTGT) are changed twice, allowing for replication to all Microsoft Active Directory Domain Services domain controllers in-between each change, if:
+• the domain has been directly compromised
+• the domain is suspected of being compromised
+• they have not been changed in the past 12 months."
+Guidelines for System Hardening,Authentication hardening,Protecting credentials,0418,"Credentials are kept separate from systems they are used to authenticate to, except for when performing authentication activities."
+Guidelines for System Hardening,Authentication hardening,Protecting credentials,1597,Credentials are obscured as they are entered into systems.
+Guidelines for System Hardening,Authentication hardening,Protecting credentials,1402,"Credentials stored on systems are protected by a password manager; a hardware security module; or by salting, hashing and stretching them before storage within a database."
+Guidelines for System Hardening,Authentication hardening,Protecting credentials,1686,Windows Defender Credential Guard and Windows Defender Remote Credential Guard are enabled.
+Guidelines for System Hardening,Authentication hardening,Protecting credentials,1749,Cached credentials are limited to one previous logon.
+Guidelines for System Hardening,Authentication hardening,Account lockouts,1403,Accounts are locked out after a maximum of five failed logon attempts.
+Guidelines for System Hardening,Authentication hardening,Session termination,0853,"On a daily basis, outside of business hours and after an appropriate period of inactivity, user sessions are terminated and workstations are restarted."
+Guidelines for System Hardening,Authentication hardening,Session and screen locking,0428,"Systems are configured with a session or screen lock that:
+• activates after a maximum of 15 minutes of user inactivity, or if manually activated by users
+• conceals all session content on the screen
+• ensures that the screen does not enter a power saving state before the session or screen lock is activated
+• requires users to authenticate to unlock the session
+• denies users the ability to disable the session or screen locking mechanism."
+Guidelines for System Hardening,Authentication hardening,Logon banner,0408,Systems have a logon banner that requires users to acknowledge and accept their security responsibilities before access is granted.
+Guidelines for System Hardening,Authentication hardening,Logon banner,0979,Legal advice is sought on the exact wording of logon banners.
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1460,"When using a software-based isolation mechanism to share a physical server’s hardware, the isolation mechanism is from a vendor that has demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products."
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1604,"When using a software-based isolation mechanism to share a physical server’s hardware, the configuration of the isolation mechanism is hardened by removing unneeded functionality and restricting access to the administrative interface used to manage the isolation mechanism."
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1605,"When using a software-based isolation mechanism to share a physical server’s hardware, the underlying operating system is hardened."
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1606,"When using a software-based isolation mechanism to share a physical server’s hardware, patches, updates or vendor mitigations for security vulnerabilities are applied to the isolation mechanism and underlying operating system in a timely manner."
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1848,"When using a software-based isolation mechanism to share a physical server’s hardware, the isolation mechanism or underlying operating system is replaced when it is no longer supported by a vendor."
+Guidelines for System Hardening,Virtualisation hardening,Functional separation between computing environments,1607,"When using a software-based isolation mechanism to share a physical server’s hardware, integrity and log monitoring are performed for the isolation mechanism and underlying operating system in a timely manner."
+Guidelines for System Management,System administration,System administration processes and procedures,0042,"System administration processes, and supporting system administration procedures, are developed, implemented and maintained."
+Guidelines for System Management,System administration,System administration processes and procedures,1211,"System administrators document requirements for administrative activities, consider potential security impacts, obtain any necessary approvals, notify users of any disruptions or outages, and maintain system and security documentation."
+Guidelines for System Management,System administration,Separate privileged operating environments,1380,Privileged users use separate privileged and unprivileged operating environments.
+Guidelines for System Management,System administration,Separate privileged operating environments,1687,Privileged operating environments are not virtualised within unprivileged operating environments.
+Guidelines for System Management,System administration,Separate privileged operating environments,1688,Unprivileged accounts cannot logon to privileged operating environments.
+Guidelines for System Management,System administration,Separate privileged operating environments,1689,Privileged accounts (excluding local administrator accounts) cannot logon to unprivileged operating environments.
+Guidelines for System Management,System administration,Administrative infrastructure,1385,Administrative infrastructure is segregated from the wider network.
+Guidelines for System Management,System administration,Administrative infrastructure,1750,"Administrative infrastructure for critical servers, high-value servers and regular servers is segregated from each other."
+Guidelines for System Management,System administration,Administrative infrastructure,1386,Network management traffic can only originate from administrative infrastructure.
+Guidelines for System Management,System administration,Administrative infrastructure,1387,Administrative activities are conducted through jump servers.
+Guidelines for System Management,System administration,Administrative infrastructure,1381,Only privileged operating environments can communicate with jump servers.
+Guidelines for System Management,System administration,Administrative infrastructure,1388,Only jump servers can communicate with assets requiring administrative activities to be performed.
+Guidelines for System Management,System patching,Patch management processes and procedures,1143,"Patch management processes, and supporting patch management procedures, are developed, implemented and maintained."
+Guidelines for System Management,System patching,Patch management processes and procedures,0298,"A centralised and managed approach that maintains the integrity of patches or updates, and confirms that they have been applied successfully, is used to patch or update applications, operating systems, drivers and firmware."
+Guidelines for System Management,System patching,Software register,1493,"Software registers for workstations, servers, network devices and other ICT equipment are developed, implemented, maintained and verified on a regular basis."
+Guidelines for System Management,System patching,Software register,1643,"Software registers contain versions and patch histories of applications, drivers, operating systems and firmware."
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1807,An automated method of asset discovery is used at least fortnightly to support the detection of assets for subsequent vulnerability scanning activities.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1808,A vulnerability scanner with an up-to-date vulnerability database is used for vulnerability scanning activities.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1698,A vulnerability scanner is used at least daily to identify missing patches or updates for security vulnerabilities in internet-facing services.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1699,"A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products."
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1700,A vulnerability scanner is used at least fortnightly to identify missing patches or updates for security vulnerabilities in other applications.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1701,A vulnerability scanner is used at least daily to identify missing patches or updates for security vulnerabilities in operating systems of internet-facing services.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1702,"A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in operating systems of workstations, servers and network devices."
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1752,A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in operating systems of other ICT equipment.
+Guidelines for System Management,System patching,Scanning for missing patches or updates,1703,A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in drivers and firmware.
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1690,"Patches, updates or vendor mitigations for security vulnerabilities in internet-facing services are applied within two weeks of release, or within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1691,"Patches, updates or vendor mitigations for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are applied within two weeks of release."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1692,"Patches, updates or vendor mitigations for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are applied within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1693,"Patches, updates or vendor mitigations for security vulnerabilities in other applications are applied within one month of release."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1694,"Patches, updates or vendor mitigations for security vulnerabilities in operating systems of internet-facing services are applied within two weeks of release, or within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1695,"Patches, updates or vendor mitigations for security vulnerabilities in operating systems of workstations, servers and network devices are applied within two weeks of release."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1696,"Patches, updates or vendor mitigations for security vulnerabilities in operating systems of workstations, servers and network devices are applied within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1751,"Patches, updates or vendor mitigations for security vulnerabilities in operating systems of other ICT equipment are applied within two weeks of release, or within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,When to patch security vulnerabilities,1697,"Patches, updates or vendor mitigations for security vulnerabilities in drivers and firmware are applied within two weeks of release, or within 48 hours if an exploit exists."
+Guidelines for System Management,System patching,Cessation of support,1704,"Internet-facing services, office productivity suites, web browsers and their extensions, email clients, PDF software, Adobe Flash Player, and security products that are no longer supported by vendors are removed."
+Guidelines for System Management,System patching,Cessation of support,0304,Applications that are no longer supported by vendors are removed.
+Guidelines for System Management,System patching,Cessation of support,1501,Operating systems that are no longer supported by vendors are replaced.
+Guidelines for System Management,System patching,Cessation of support,1753,Network devices and other ICT equipment that are no longer supported by vendors are replaced.
+Guidelines for System Management,System patching,Cessation of support,1809,"When applications, operating systems, network devices or other ICT equipment that are no longer supported by vendors cannot be immediately removed or replaced, compensating controls are implemented until such time that they can be removed or replaced."
+Guidelines for System Management,Data backup and restoration,Digital preservation policy,1510,"A digital preservation policy is developed, implemented and maintained."
+Guidelines for System Management,Data backup and restoration,Data backup and restoration processes and procedures,1547,"Data backup processes, and supporting data backup procedures, are developed, implemented and maintained."
+Guidelines for System Management,Data backup and restoration,Data backup and restoration processes and procedures,1548,"Data restoration processes, and supporting data restoration procedures, are developed, implemented and maintained."
+Guidelines for System Management,Data backup and restoration,Performing and retaining backups,1511,"Backups of important data, software and configuration settings are performed and retained with a frequency and retention timeframe in accordance with business continuity requirements."
+Guidelines for System Management,Data backup and restoration,Performing and retaining backups,1810,"Backups of important data, software and configuration settings are synchronised to enable restoration to a common point in time."
+Guidelines for System Management,Data backup and restoration,Performing and retaining backups,1811,"Backups of important data, software and configuration settings are retained in a secure and resilient manner."
+Guidelines for System Management,Data backup and restoration,Backup access,1812,Unprivileged accounts cannot access backups belonging to other accounts.
+Guidelines for System Management,Data backup and restoration,Backup access,1813,Unprivileged accounts cannot access their own backups.
+Guidelines for System Management,Data backup and restoration,Backup access,1705,Privileged accounts (excluding backup administrator accounts) cannot access backups belonging to other accounts.
+Guidelines for System Management,Data backup and restoration,Backup access,1706,Privileged accounts (excluding backup administrator accounts) cannot access their own backups.
+Guidelines for System Management,Data backup and restoration,Backup modification and deletion,1814,Unprivileged accounts are prevented from modifying and deleting backups.
+Guidelines for System Management,Data backup and restoration,Backup modification and deletion,1707,Privileged accounts (excluding backup administrator accounts) are prevented from modifying and deleting backups.
+Guidelines for System Management,Data backup and restoration,Backup modification and deletion,1708,Privileged accounts (including backup administrator accounts) are prevented from modifying and deleting backups during their retention period.
+Guidelines for System Management,Data backup and restoration,Testing restoration of backups,1515,"Restoration of important data, software and configuration settings from backups to a common point of time is tested as part of disaster recovery exercises."
+Guidelines for System Monitoring,Event logging and monitoring,Event logging policy,0580,"An event logging policy is developed, implemented and maintained."
+Guidelines for System Monitoring,Event logging and monitoring,Event log details,0585,"For each event logged, the date and time of the event, the relevant user or process, the relevant filename, the event description, and the ICT equipment involved are recorded."
+Guidelines for System Monitoring,Event logging and monitoring,Centralised event logging facility,1405,A centralised event logging facility is implemented and event logs are sent to the facility as soon as possible after they occur.
+Guidelines for System Monitoring,Event logging and monitoring,Centralised event logging facility,1815,Event logs stored within a centralised event logging facility are protected from unauthorised modification and deletion.
+Guidelines for System Monitoring,Event logging and monitoring,Centralised event logging facility,0988,An accurate time source is established and used consistently across systems to assist with identifying connections between events.
+Guidelines for System Monitoring,Event logging and monitoring,Event log monitoring,0109,Event logs are analysed in a timely manner to detect cyber security events.
+Guidelines for System Monitoring,Event logging and monitoring,Event log monitoring,1228,Cyber security events are analysed in a timely manner to identify cyber security incidents.
+Guidelines for System Monitoring,Event logging and monitoring,Event log retention,0859,"Event logs, excluding those for Domain Name System services and web proxies, are retained for at least seven years."
+Guidelines for System Monitoring,Event logging and monitoring,Event log retention,0991,Event logs for Domain Name System services and web proxies are retained for at least 18 months.
+Guidelines for Software Development,Application development,"Development, testing and production environments",0400,"Development, testing and production environments are segregated."
+Guidelines for Software Development,Application development,"Development, testing and production environments",1419,Development and modification of software only takes place in development environments.
+Guidelines for Software Development,Application development,"Development, testing and production environments",1420,Data from production environments is not used in a development or testing environment unless the environment is secured to the same level as the production environment.
+Guidelines for Software Development,Application development,"Development, testing and production environments",1422,Unauthorised access to the authoritative source for software is prevented.
+Guidelines for Software Development,Application development,"Development, testing and production environments",1816,Unauthorised modification of the authoritative source for software is prevented.
+Guidelines for Software Development,Application development,Secure software design and development,0401,"Secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, and secure programming practices are used as part of application development."
+Guidelines for Software Development,Application development,Secure software design and development,1780,SecDevOps practices are used for application development.
+Guidelines for Software Development,Application development,Secure software design and development,1238,Threat modelling is used in support of application development.
+Guidelines for Software Development,Application development,Secure software design and development,1796,Files containing executable content are digitally signed as part of application development.
+Guidelines for Software Development,Application development,Secure software design and development,1797,"Installers, patches and updates are digitally signed or provided with cryptographic checksums as part of application development."
+Guidelines for Software Development,Application development,Secure software design and development,1798,Secure configuration guidance is produced as part of application development.
+Guidelines for Software Development,Application development,Software bill of materials,1730,A software bill of materials is produced and made available to consumers of software.
+Guidelines for Software Development,Application development,Application security testing,0402,"Applications are comprehensively tested for security vulnerabilities, using both static application security testing and dynamic application security testing, prior to their initial release and following any maintenance activities."
+Guidelines for Software Development,Application development,Application security testing,1754,Security vulnerabilities identified in applications are resolved by software developers.
+Guidelines for Software Development,Application development,Vulnerability disclosure program,1616,A vulnerability disclosure program is implemented to assist with the secure development and maintenance of products and services.
+Guidelines for Software Development,Application development,Vulnerability disclosure program,1755,"A vulnerability disclosure policy is developed, implemented and maintained."
+Guidelines for Software Development,Application development,Vulnerability disclosure program,1756,"Vulnerability disclosure processes, and supporting vulnerability disclosure procedures, are developed, implemented and maintained."
+Guidelines for Software Development,Application development,Vulnerability disclosure program,1717,A ‘security.txt’ file is hosted for all internet-facing organisational domains to assist in the responsible disclosure of security vulnerabilities in an organisation’s products and services.
+Guidelines for Software Development,Web application development,Open Web Application Security Projects,0971,The OWASP Application Security Verification Standard is used in the development of web applications.
+Guidelines for Software Development,Web application development,Open Web Application Security Projects,1849,The OWASP Top Ten Proactive Controls are used in the development of web applications.
+Guidelines for Software Development,Web application development,Open Web Application Security Projects,1850,The OWASP Top 10 are mitigated in the development of web applications.
+Guidelines for Software Development,Web application development,Web application frameworks,1239,Robust web application frameworks are used in the development of web applications.
+Guidelines for Software Development,Web application development,Web application interactions,1552,All web application content is offered exclusively using HTTPS.
+Guidelines for Software Development,Web application development,Web application programming interfaces,1817,Authentication and authorisation of clients is performed when clients call web APIs that facilitate access to data not authorised for release into the public domain.
+Guidelines for Software Development,Web application development,Web application programming interfaces,1818,Authentication and authorisation of clients is performed when clients call web APIs that facilitate modification of data.
+Guidelines for Software Development,Web application development,Web application programming interfaces,1851,The OWASP API Security Top 10 are mitigated in the development of web APIs.
+Guidelines for Software Development,Web application development,Web application input handling,1240,Validation or sanitisation is performed on all input handled by web applications.
+Guidelines for Software Development,Web application development,Web application output encoding,1241,Output encoding is performed on all output produced by web applications.
+Guidelines for Software Development,Web application development,Web browser-based controls,1424,"Web applications implement Content-Security-Policy, HSTS and X-Frame-Options via security policy in response headers."
+Guidelines for Software Development,Web application development,Web application event logging,1536,"The following events are logged for web applications: attempted access that is denied, crashes and error messages, and search queries initiated by users."
+Guidelines for Software Development,Web application development,Web application event logging,1757,Web application event logs are stored centrally.
+Guidelines for Database Systems,Database servers,Functional separation between database servers and web servers,1269,Database servers and web servers are functionally separated.
+Guidelines for Database Systems,Database servers,Communications between database servers and web servers,1277,Data communicated between database servers and web servers is encrypted.
+Guidelines for Database Systems,Database servers,Network environment,1270,Database servers are placed on a different network segment to user workstations.
+Guidelines for Database Systems,Database servers,Network environment,1271,"Network access controls are implemented to restrict database server communications to strictly defined network resources, such as web servers, application servers and storage area networks."
+Guidelines for Database Systems,Database servers,Network environment,1272,"If only local access to a database is required, networking functionality of database management system software is disabled or directed to listen solely to the localhost interface."
+Guidelines for Database Systems,Database servers,"Separation of development, testing and production database servers",1273,Development and testing environments do not use the same database servers as production environments.
+Guidelines for Database Systems,Databases,Database register,1243,"A database register is developed, implemented, maintained and verified on a regular basis."
+Guidelines for Database Systems,Databases,Protecting databases,1256,File-based access controls are applied to database files.
+Guidelines for Database Systems,Databases,Protecting database contents,0393,Databases and their contents are classified based on the sensitivity or classification of data that they contain.
+Guidelines for Database Systems,Databases,Protecting database contents,1255,"Database users’ ability to access, insert, modify and remove database contents is restricted based on their work duties."
+Guidelines for Database Systems,Databases,Protecting database contents,1268,"The need-to-know principle is enforced for database contents through the application of minimum privileges, database views and database roles."
+Guidelines for Database Systems,Databases,"Separation of development, testing and production databases",1274,Database contents from production environments are not used in development or testing environments unless the environment is secured to the same level as the production environment.
+Guidelines for Database Systems,Databases,Web application interaction with databases,1275,All queries to databases from web applications are filtered for legitimate content and correct syntax.
+Guidelines for Database Systems,Databases,Web application interaction with databases,1276,"Parameterised queries or stored procedures, instead of dynamically generated queries, are used for database interactions."
+Guidelines for Database Systems,Databases,Web application interaction with databases,1278,Web applications are designed or configured to provide as little error information as possible about the structure of databases.
+Guidelines for Database Systems,Databases,Database event logging,1537,"The following events are logged for databases:
+• access or modification of particularly important content
+• addition of new users, especially privileged users
+• changes to user roles or privileges
+• attempts to elevate user privileges
+• queries containing comments
+• queries containing multiple embedded queries
+• database and query alerts or failures
+• database structure changes
+• database administrator actions
+• use of executable commands
+• database logons and logoffs."
+Guidelines for Database Systems,Databases,Database event logging,1758,Database event logs are stored centrally.
+Guidelines for Email,Email usage,Email usage policy,0264,"An email usage policy is developed, implemented and maintained."
+Guidelines for Email,Email usage,Webmail services,0267,Access to non-approved webmail services is blocked.
+Guidelines for Email,Email usage,Protective markings for emails,0270,"Protective markings are applied to emails and reflect the highest sensitivity or classification of the subject, body and attachments."
+Guidelines for Email,Email usage,Protective marking tools,0271,Protective marking tools do not automatically insert protective markings into emails.
+Guidelines for Email,Email usage,Protective marking tools,0272,"Protective marking tools do not allow users to select protective markings that a system has not been authorised to process, store or communicate."
+Guidelines for Email,Email usage,Protective marking tools,1089,Protective marking tools do not allow users replying to or forwarding emails to select protective markings lower than previously used.
+Guidelines for Email,Email usage,"Handling emails with inappropriate, invalid or missing protective markings",0565,"Email servers are configured to block, log and report emails with inappropriate protective markings."
+Guidelines for Email,Email usage,"Handling emails with inappropriate, invalid or missing protective markings",1023,"The intended recipients of blocked inbound emails, and the senders of blocked outbound emails, are notified."
+Guidelines for Email,Email gateways and servers,Centralised email gateways,0569,Emails are routed via centralised email gateways.
+Guidelines for Email,Email gateways and servers,Centralised email gateways,0571,"When users send or receive emails, an authenticated and encrypted channel is used to route emails via their organisation’s centralised email gateways."
+Guidelines for Email,Email gateways and servers,Email gateway maintenance activities,0570,"Where backup or alternative email gateways are in place, they are maintained at the same standard as the primary email gateway."
+Guidelines for Email,Email gateways and servers,Open relay email servers,0567,Email servers only relay emails destined for or originating from their domains (including subdomains).
+Guidelines for Email,Email gateways and servers,Email server transport encryption,0572,Opportunistic TLS encryption is enabled on email servers that make incoming or outgoing email connections over public network infrastructure.
+Guidelines for Email,Email gateways and servers,Email server transport encryption,1589,MTA-STS is enabled to prevent the unencrypted transfer of emails between complying servers.
+Guidelines for Email,Email gateways and servers,Sender Policy Framework,0574,SPF is used to specify authorised email servers (or lack thereof) for all domains (including subdomains).
+Guidelines for Email,Email gateways and servers,Sender Policy Framework,1183,A hard fail SPF record is used when specifying authorised email servers (or lack thereof) for all domains (including subdomains).
+Guidelines for Email,Email gateways and servers,Sender Policy Framework,1151,SPF is used to verify the authenticity of incoming emails.
+Guidelines for Email,Email gateways and servers,DomainKeys Identified Mail,0861,DKIM signing is enabled on emails originating from an organisation’s domains (including subdomains).
+Guidelines for Email,Email gateways and servers,DomainKeys Identified Mail,1026,DKIM signatures on received emails are verified.
+Guidelines for Email,Email gateways and servers,DomainKeys Identified Mail,1027,Email distribution list software used by external senders is configured such that it does not break the validity of the sender’s DKIM signature.
+Guidelines for Email,Email gateways and servers,"Domain-based Message Authentication, Reporting and Conformance",1540,DMARC records are configured for all domains (including subdomains) such that emails are rejected if they do not pass DMARC checks.
+Guidelines for Email,Email gateways and servers,"Domain-based Message Authentication, Reporting and Conformance",1799,Incoming emails are rejected if they do not pass DMARC checks.
+Guidelines for Email,Email gateways and servers,Email content filtering,1234,Email content filtering is implemented to filter potentially harmful content in email bodies and attachments.
+Guidelines for Email,Email gateways and servers,Blocking suspicious emails,1502,"Emails arriving via an external connection where the email source address uses an internal domain, or internal subdomain, are blocked at the email gateway."
+Guidelines for Email,Email gateways and servers,Notifications of undeliverable emails,1024,Notifications of undeliverable emails are only sent to senders that can be verified via SPF or other trusted means.
+Guidelines for Networking,Network design and configuration,Network documentation,0518,"Network documentation is developed, implemented, maintained."
+Guidelines for Networking,Network design and configuration,Network documentation,0516,"Network documentation includes high-level network diagrams showing all connections into networks and logical network diagrams showing all critical servers, high-value servers, network devices and network security appliances."
+Guidelines for Networking,Network design and configuration,Network documentation,1178,"Network documentation provided to a third party, or published in public tender documentation, only contains details necessary for other parties to undertake contractual services."
+Guidelines for Networking,Network design and configuration,Network encryption,1781,All data communicated over network infrastructure is encrypted.
+Guidelines for Networking,Network design and configuration,Network segmentation and segregation,1181,"Networks are segregated into multiple network zones according to the criticality of servers, services and data."
+Guidelines for Networking,Network design and configuration,Network segmentation and segregation,1577,An organisation’s networks are segregated from their service providers’ networks.
+Guidelines for Networking,Network design and configuration,Using Virtual Local Area Networks,1532,VLANs are not used to separate network traffic between an organisation’s networks and public network infrastructure.
+Guidelines for Networking,Network design and configuration,Using Virtual Local Area Networks,0529,VLANs are not used to separate network traffic between networks belonging to different security domains.
+Guidelines for Networking,Network design and configuration,Using Virtual Local Area Networks,0530,Network devices managing VLANs are administered from the most trusted security domain.
+Guidelines for Networking,Network design and configuration,Using Virtual Local Area Networks,0535,Network devices managing VLANs belonging to different security domains do not share VLAN trunks.
+Guidelines for Networking,Network design and configuration,Using Virtual Local Area Networks,1364,Network devices managing VLANs terminate VLANs belonging to different security domains on separate physical network interfaces.
+Guidelines for Networking,Network design and configuration,Using Internet Protocol version 6,0521,IPv6 functionality is disabled in dual-stack network devices unless it is being used.
+Guidelines for Networking,Network design and configuration,Using Internet Protocol version 6,1186,IPv6 capable network security appliances are used on IPv6 and dual-stack networks.
+Guidelines for Networking,Network design and configuration,Using Internet Protocol version 6,1428,"Unless explicitly required, IPv6 tunnelling is disabled on all network devices."
+Guidelines for Networking,Network design and configuration,Using Internet Protocol version 6,1429,IPv6 tunnelling is blocked by network security appliances at externally-connected network boundaries.
+Guidelines for Networking,Network design and configuration,Using Internet Protocol version 6,1430,Dynamically assigned IPv6 addresses are configured with Dynamic Host Configuration Protocol version 6 in a stateful manner with lease data stored in a centralised event logging facility.
+Guidelines for Networking,Network design and configuration,Network access controls,0520,Network access controls are implemented on networks to prevent the connection of unauthorised network devices.
+Guidelines for Networking,Network design and configuration,Network access controls,1182,Network access controls are implemented to limit network traffic within and between network segments to only those required for business purposes.
+Guidelines for Networking,Network design and configuration,Functional separation between servers,0385,Servers maintain effective functional separation with other servers allowing them to operate independently.
+Guidelines for Networking,Network design and configuration,Functional separation between servers,1479,Servers minimise communications with other servers at both the network and file system level.
+Guidelines for Networking,Network design and configuration,Network management traffic,1006,Security measures are implemented to prevent unauthorised access to network management traffic.
+Guidelines for Networking,Network design and configuration,Use of Simple Network Management Protocol,1311,SNMP version 1 and SNMP version 2 are not used on networks.
+Guidelines for Networking,Network design and configuration,Use of Simple Network Management Protocol,1312,All default SNMP community strings on network devices are changed and write access is disabled.
+Guidelines for Networking,Network design and configuration,Using Network-based Intrusion Detection and Prevention Systems,1028,A NIDS or NIPS is deployed in gateways between an organisation’s networks and other networks they do not manage.
+Guidelines for Networking,Network design and configuration,Using Network-based Intrusion Detection and Prevention Systems,1030,A NIDS or NIPS is located immediately inside the outermost firewall for gateways and configured to generate event logs and alerts for network traffic that contravenes any rule in a firewall ruleset.
+Guidelines for Networking,Network design and configuration,Blocking anonymity network traffic,1627,Inbound network connections from anonymity networks to internet-facing services are blocked.
+Guidelines for Networking,Network design and configuration,Blocking anonymity network traffic,1628,Outbound network connections to anonymity networks are blocked.
+Guidelines for Networking,Network design and configuration,Protective Domain Name System Services,1782,A protective DNS service is used to block access to known malicious domain names.
+Guidelines for Networking,Network design and configuration,Flashing network devices with trusted firmware before first use,1800,Network devices are flashed with trusted firmware before they are used for the first time.
+Guidelines for Networking,Network design and configuration,Default accounts and credentials for network devices,1304,"Default accounts or credentials for network devices including for any pre-configured accounts, are changed."
+Guidelines for Networking,Network design and configuration,Disabling unused physical ports on network devices,0534,Unused physical ports on network devices are disabled.
+Guidelines for Networking,Network design and configuration,Regularly restarting network devices,1801,Network devices are restarted on at least a monthly basis.
+Guidelines for Networking,Wireless networks,Choosing wireless devices,1314,All wireless devices are Wi-Fi Alliance certified.
+Guidelines for Networking,Wireless networks,Public wireless networks,0536,Public wireless networks provided for general public use are segregated from all other organisation networks.
+Guidelines for Networking,Wireless networks,Administrative interfaces for wireless access points,1315,The administrative interface on wireless access points is disabled for wireless network connections.
+Guidelines for Networking,Wireless networks,Default settings,1710,Configuration settings for wireless access points are hardened.
+Guidelines for Networking,Wireless networks,Default settings,1316,Default SSIDs of wireless access points are changed.
+Guidelines for Networking,Wireless networks,Default settings,1317,"SSIDs of non-public wireless networks are not readily associated with an organisation, the location of their premises or the functionality of wireless networks."
+Guidelines for Networking,Wireless networks,Default settings,1318,SSID broadcasting is not disabled on wireless access points.
+Guidelines for Networking,Wireless networks,Media Access Control address filtering,1320,MAC address filtering is not used to restrict which devices can connect to wireless networks.
+Guidelines for Networking,Wireless networks,Static addressing,1319,Static addressing is not used for assigning IP addresses on wireless networks.
+Guidelines for Networking,Wireless networks,Confidentiality and integrity of wireless network traffic,1332,WPA3-Enterprise 192-bit mode is used to protect the confidentiality and integrity of all wireless network traffic.
+Guidelines for Networking,Wireless networks,802.1X authentication,1321,"802.1X authentication with EAP-TLS, using X.509 certificates, is used for mutual authentication; with all other EAP methods disabled on supplications and authentication servers."
+Guidelines for Networking,Wireless networks,802.1X authentication,1711,User identity confidentiality is used if available with EAP-TLS implementations.
+Guidelines for Networking,Wireless networks,Evaluation of 802.1X authentication implementation,1322,"Evaluated supplicants, authenticators, wireless access points and authentication servers are used in wireless networks."
+Guidelines for Networking,Wireless networks,Generating and issuing certificates for authentication,1324,Certificates are generated using an evaluated certificate authority or hardware security module.
+Guidelines for Networking,Wireless networks,Generating and issuing certificates for authentication,1323,Certificates are required for both devices and users accessing wireless networks.
+Guidelines for Networking,Wireless networks,Generating and issuing certificates for authentication,1327,"Certificates are protected by encryption, user authentication, and both logical and physical access controls."
+Guidelines for Networking,Wireless networks,Caching 802.1X authentication outcomes,1330,The PMK caching period is not set to greater than 1440 minutes (24 hours).
+Guidelines for Networking,Wireless networks,Fast Basic Service Set Transition,1712,The use of FT (802.11r) is disabled unless authenticator-to-authenticator communications are secured by an ASD-Approved Cryptographic Protocol.
+Guidelines for Networking,Wireless networks,Remote Authentication Dial-In User Service authentication,1454,Communications between authenticators and a RADIUS server are encapsulated with an additional layer of encryption using RADIUS over Internet Protocol Security or RADIUS over Transport Layer Security.
+Guidelines for Networking,Wireless networks,Interference between wireless networks,1334,Wireless networks implement sufficient frequency separation from other wireless networks.
+Guidelines for Networking,Wireless networks,Protecting management frames on wireless networks,1335,Wireless access points enable the use of the 802.11w amendment to protect management frames.
+Guidelines for Networking,Wireless networks,Wireless network footprint,1338,"Instead of deploying a small number of wireless access points that broadcast on high power, a greater number of wireless access points that use less broadcast power are deployed to achieve the desired footprint for wireless networks."
+Guidelines for Networking,Service continuity for online services,Cloud-based hosting of online services,1437,Cloud service providers are used for hosting online services.
+Guidelines for Networking,Service continuity for online services,Location policies for online services,1578,An organisation is notified by cloud service providers of any change to configured regions or availability zones for online services.
+Guidelines for Networking,Service continuity for online services,Availability planning and monitoring for online services,1579,Cloud service providers’ ability to dynamically scale resources due to a genuine spike in demand or a denial-of-service attack is tested as part of capacity planning processes for online services.
+Guidelines for Networking,Service continuity for online services,Availability planning and monitoring for online services,1580,"Where a high availability requirement exists for online services, the services are architected to automatically transition between availability zones."
+Guidelines for Networking,Service continuity for online services,Availability planning and monitoring for online services,1441,"Where a requirement for high availability exists for online services, a denial of service mitigation service is used."
+Guidelines for Networking,Service continuity for online services,Availability planning and monitoring for online services,1581,Continuous real-time monitoring of the availability of online services is performed.
+Guidelines for Networking,Service continuity for online services,Using content delivery networks,1438,"Where a high availability requirement exists for website hosting, CDNs that cache websites are used."
+Guidelines for Networking,Service continuity for online services,Using content delivery networks,1439,"If using CDNs, disclosing the IP addresses of web servers under an organisation’s control (referred to as origin servers) is avoided and access to the origin servers is restricted to the CDNs and authorised management networks."
+Guidelines for Networking,Service continuity for online services,Denial of service strategies,1431,"Denial-of-service attack mitigation strategies are discussed with cloud service providers, specifically:
+• their capacity to withstand denial-of-service attacks
+• any costs likely to be incurred as a result of denial-of-service attacks
+• thresholds for notification of denial-of-service attacks
+• thresholds for turning off online services during denial-of-service attacks
+• pre-approved actions that can be undertaken during denial-of-service attacks
+• any arrangements with upstream service providers to block malicious network traffic as far upstream as possible."
+Guidelines for Networking,Service continuity for online services,Denial of service strategies,1458,"The functionality and quality of online services, how to maintain such functionality, and what functionality can be lived without during a denial-of-service attack, are determined and documented."
+Guidelines for Networking,Service continuity for online services,Domain name registrar locking,1432,Domain names for online services are protected via registrar locking and confirming domain registration details are correct.
+Guidelines for Networking,Service continuity for online services,Monitoring with real-time alerting for online services,1435,Availability monitoring with real-time alerting is implemented for online services to detect denial-of-service attacks and measure their impact.
+Guidelines for Networking,Service continuity for online services,Segregation of critical online services,1436,Critical online services are segregated from other online services that are more likely to be targeted.
+Guidelines for Networking,Service continuity for online services,Preparing for service continuity,1518,A static version of a website is pre-prepared that requires minimal processing and bandwidth in order to facilitate at least a basic level of service when under a denial-of-service attack.
+Guidelines for Cryptography,Cryptographic fundamentals,Cryptographic key management processes and procedures,0507,"Cryptographic key management processes, and supporting cryptographic key management procedures, are developed, implemented and maintained."
+Guidelines for Cryptography,Cryptographic fundamentals,Encrypting data at rest,1080,An ASD-Approved Cryptographic Algorithm (AACA) or high assurance cryptographic algorithm is used when encrypting media.
+Guidelines for Cryptography,Cryptographic fundamentals,Encrypting data at rest,0457,Cryptographic equipment or software that has completed a Common Criteria evaluation against a Protection Profile is used when encrypting media that contains OFFICIAL: Sensitive or PROTECTED data.
+Guidelines for Cryptography,Cryptographic fundamentals,Encrypting data at rest,0459,"Full disk encryption, or partial encryption where access controls will only allow writing to the encrypted partition, is implemented when encrypting data at rest."
+Guidelines for Cryptography,Cryptographic fundamentals,Encrypting data in transit,0469,An ASD-Approved Cryptographic Protocol (AACP) or high assurance cryptographic protocol is used to protect data when communicated over network infrastructure.
+Guidelines for Cryptography,Cryptographic fundamentals,Encrypting data in transit,0465,"Cryptographic equipment or software that has completed a Common Criteria evaluation against a Protection Profile is used to protect OFFICIAL: Sensitive or PROTECTED data when communicated over insufficiently secure networks, outside of appropriately secure areas or via public network infrastructure."
+Guidelines for Cryptography,Cryptographic fundamentals,Data recovery,0455,"Where practical, cryptographic equipment and software provides a means of data recovery to allow for circumstances where the encryption key is unavailable due to loss, damage or failure."
+Guidelines for Cryptography,Cryptographic fundamentals,Handling encrypted ICT equipment and media,0462,"When a user authenticates to the encryption functionality of ICT equipment or media, it is treated in accordance with its original sensitivity or classification until the user deauthenticates from the encryption functionality."
+Guidelines for Cryptography,Cryptographic fundamentals,Transporting cryptographic equipment,0501,Keyed cryptographic equipment is transported based on the sensitivity or classification of its keying material.
+Guidelines for Cryptography,Cryptographic fundamentals,Reporting cryptographic-related cyber security incidents,0142,"The compromise or suspected compromise of cryptographic equipment or associated keying material is reported to an organisation’s Chief Information Security Officer, or one of their delegates, as soon as possible after it occurs."
+Guidelines for Cryptography,Cryptographic fundamentals,Reporting cryptographic-related cyber security incidents,1091,Keying material is changed when compromised or suspected of being compromised.
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using ASD-Approved Cryptographic Algorithms,0471,Only AACAs or high assurance cryptographic algorithms are used by cryptographic equipment and software.
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Asymmetric/public key algorithms,0994,ECDH and ECDSA are used in preference to DH and DSA.
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Diffie-Hellman,0472,"When using DH for agreeing on encryption session keys, a modulus of at least 2048 bits is used, preferably 3072 bits."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Diffie-Hellman,1629,"When using DH for agreeing on encryption session keys, a modulus and associated parameters are selected according to NIST SP 800-56A Rev. 3."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using the Digital Signature Algorithm,0473,"When using DSA for digital signatures, a modulus of at least 2048 bits is used."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using the Digital Signature Algorithm,1630,"When using DSA for digital signatures, a modulus and associated parameters are generated according to FIPS 186-4."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Elliptic Curve Cryptography,1446,"When using elliptic curve cryptography, a curve from FIPS 186-4 is used."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Elliptic Curve Diffie-Hellman,0474,"When using ECDH for agreeing on encryption session keys, a base point order and key size of at least 224 bits is used, preferably the NIST P-384 curve."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using the Elliptic Curve Digital Signature Algorithm,0475,"When using ECDSA for digital signatures, a base point order and key size of at least 224 bits is used, preferably the P-384 curve."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Rivest-Shamir-Adleman,0476,"When using RSA for digital signatures, and passing encryption session keys or similar keys, a modulus of at least 2048 bits is used, preferably 3072 bits."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using Rivest-Shamir-Adleman,0477,"When using RSA for digital signatures, and for passing encryption session keys or similar keys, a different key pair is used for digital signatures and passing encrypted session keys."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using hashing algorithms,1766,"When using SHA-2 for hashing, an output size of at least 224 bits is used, preferably SHA-384."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using symmetric encryption algorithms,1769,"When using AES for encryption, AES-128, AES-192 or AES-256 is used, preferably AES-256."
+Guidelines for Cryptography,ASD-Approved Cryptographic Algorithms,Using symmetric encryption algorithms,0479,Symmetric cryptographic algorithms are not used in Electronic Codebook Mode.
+Guidelines for Cryptography,ASD-Approved Cryptographic Protocols,Using ASD-Approved Cryptographic Protocols,0481,Only AACPs or high assurance cryptographic protocols are used by cryptographic equipment and software.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1139,Only the latest version of TLS is used for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1369,AES-GCM is used for encryption of TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1370,Only server-initiated secure renegotiation is used for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1372,DH or ECDH is used for key establishment of TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1448,"When using DH or ECDH for key establishment of TLS connections, the ephemeral variant is used."
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1373,Anonymous DH is not used for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1374,SHA-2-based certificates are used for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1375,SHA-2 is used for the Hash-based Message Authentication Code (HMAC) and pseudorandom function (PRF) for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1553,TLS compression is disabled for TLS connections.
+Guidelines for Cryptography,Transport Layer Security,Configuring Transport Layer Security,1453,Perfect Forward Secrecy (PFS) is used for TLS connections.
+Guidelines for Cryptography,Secure Shell,Configuring Secure Shell,1506,The use of SSH version 1 is disabled for SSH connections.
+Guidelines for Cryptography,Secure Shell,Configuring Secure Shell,0484,"The SSH daemon is configured to:
+• only listen on the required interfaces (ListenAddress xxx.xxx.xxx.xxx)
+• have a suitable login banner (Banner x)
+• have a login authentication timeout of no more than 60 seconds (LoginGraceTime 60)
+• disable host-based authentication (HostbasedAuthentication no)
+• disable rhosts-based authentication (IgnoreRhosts yes)
+• disable the ability to login directly as root (PermitRootLogin no)
+• disable empty passwords (PermitEmptyPasswords no)
+• disable connection forwarding (AllowTCPForwarding no)
+• disable gateway ports (GatewayPorts no)
+• disable X11 forwarding (X11Forwarding no)."
+Guidelines for Cryptography,Secure Shell,Authentication mechanisms,0485,Public key-based authentication is used for SSH connections.
+Guidelines for Cryptography,Secure Shell,Authentication mechanisms,1449,SSH private keys are protected with a passphrase or a key encryption key.
+Guidelines for Cryptography,Secure Shell,Automated remote access,0487,"When using logins without a passphrase for SSH connections, the following are disabled:
+• access from IP addresses that do not require access
+• port forwarding
+• agent credential forwarding
+• X11 display remoting
+• console access."
+Guidelines for Cryptography,Secure Shell,Automated remote access,0488,"If using remote access without the use of a passphrase for SSH connections, the ‘forced command’ option is used to specify what command is executed and parameter checking is enabled."
+Guidelines for Cryptography,Secure Shell,SSH-agent,0489,"When SSH-agent or similar key caching programs are used, it is limited to workstations and servers with screen locks and key caches that are set to expire within four hours of inactivity."
+Guidelines for Cryptography,Secure/Multipurpose Internet Mail Extension,Configuring Secure/Multipurpose Internet Mail Extension,0490,Versions of S/MIME earlier than S/MIME version 3.0 are not used for S/MIME connections.
+Guidelines for Cryptography,Internet Protocol Security,Mode of operation,0494,"Tunnel mode is used for IPsec connections; however, if using transport mode, an IP tunnel is used."
+Guidelines for Cryptography,Internet Protocol Security,Protocol selection,0496,The ESP protocol is used for authentication and encryption of IPsec connections.
+Guidelines for Cryptography,Internet Protocol Security,Key exchange,1233,IKE version 2 is used for key exchange when establishing IPsec connections.
+Guidelines for Cryptography,Internet Protocol Security,Encryption algorithms,1771,"AES is used for encrypting IPsec connections, preferably ENCR_AES_GCM_16."
+Guidelines for Cryptography,Internet Protocol Security,Pseudorandom function algorithms,1772,"PRF_HMAC_SHA2_256, PRF_HMAC_SHA2_384 or PRF_HMAC_SHA2_512 is used for IPsec connections, preferably PRF_HMAC_SHA2_512."
+Guidelines for Cryptography,Internet Protocol Security,Integrity algorithms,0998,"AUTH_HMAC_SHA2_256_128, AUTH_HMAC_SHA2_384_192, AUTH_HMAC_SHA2_512_256 or NONE (only with AES-GCM) is used for authenticating IPsec connections, preferably NONE."
+Guidelines for Cryptography,Internet Protocol Security,Diffie-Hellman groups,0999,"DH or ECDH is used for key establishment of IPsec connections, preferably 384-bit random ECP group, 3072-bit MODP Group or 4096-bit MODP Group."
+Guidelines for Cryptography,Internet Protocol Security,Security association lifetimes,0498,A security association lifetime of less than four hours (14400 seconds) is used for IPsec connections.
+Guidelines for Cryptography,Internet Protocol Security,Perfect Forward Secrecy,1000,PFS is used for IPsec connections.
+Guidelines for Gateways,Gateways,Implementing gateways,0628,Gateways are implemented between networks belonging to different security domains.
+Guidelines for Gateways,Gateways,Implementing gateways,0637,Gateways implement a demilitarised zone if external parties require access to an organisation’s services.
+Guidelines for Gateways,Gateways,Implementing gateways,0631,Gateways only allow explicitly authorised data flows.
+Guidelines for Gateways,Gateways,Implementing gateways,1192,Gateways inspect and filter data flows at the transport and above network layers.
+Guidelines for Gateways,Gateways,Implementing gateways,1427,Gateways perform ingress traffic filtering to detect and prevent IP source address spoofing.
+Guidelines for Gateways,Gateways,System administrators for gateways,1520,"System administrators for gateways undergo appropriate employment screening and, where necessary, hold an appropriate security clearance based on the sensitivity or classification of gateways."
+Guidelines for Gateways,Gateways,System administrators for gateways,0611,System administrators for gateways are assigned the minimum privileges required to perform their duties.
+Guidelines for Gateways,Gateways,System administrators for gateways,0616,Separation of duties is implemented in performing administrative activities for gateways.
+Guidelines for Gateways,Gateways,System administrators for gateways,0612,System administrators for gateways are formally trained on the operation and management of gateways.
+Guidelines for Gateways,Gateways,System administration of gateways,1774,Gateways are managed via a secure path isolated from all connected networks.
+Guidelines for Gateways,Gateways,System administration of gateways,0629,"For gateways between networks belonging to different security domains, any shared components are managed by system administrators for the higher security domain or by system administrators from a mutually-agreed third party."
+Guidelines for Gateways,Gateways,Authenticating to networks accessed via gateways,0619,Users authenticate to other networks accessed via gateways.
+Guidelines for Gateways,Gateways,Authenticating to networks accessed via gateways,0622,ICT equipment authenticates to other networks accessed via gateways.
+Guidelines for Gateways,Gateways,Border Gateway Protocol route security,1783,"Public IP addresses controlled by, or used by, an organisation are signed by valid ROA records."
+Guidelines for Gateways,Gateways,Gateway event logging and alerting,0634,"The following events are logged for gateways:
+• data packets and data flows permitted through gateways
+• data packets and data flows attempting to leave gateways
+• real-time alerts for attempted intrusions."
+Guidelines for Gateways,Gateways,Gateway event logging and alerting,1775,Gateway event logs are stored centrally.
+Guidelines for Gateways,Gateways,Assessment of gateways,1037,"Gateways undergo testing following configuration changes, and at regular intervals no more than six months apart, to validate they conform to expected security configurations."
+Guidelines for Gateways,Gateways,Assessment of gateways,0100,Gateways undergo a security assessment by an IRAP assessor at least every 24 months.
+Guidelines for Gateways,Firewalls,Using firewalls,1528,Evaluated firewalls are used between an organisation’s networks and public network infrastructure.
+Guidelines for Gateways,Firewalls,Using firewalls,0639,Evaluated firewalls are used between networks belonging to different security domains.
+Guidelines for Gateways,Diodes,Using diodes,0643,Evaluated diodes are used for controlling the data flow of unidirectional gateways between an organisation’s networks and public network infrastructure.
+Guidelines for Gateways,Diodes,Using diodes,1157,Evaluated diodes are used for controlling the data flow of unidirectional gateways between networks.
+Guidelines for Gateways,Web proxies,Web usage policy,0258,"A web usage policy is developed, implemented and maintained."
+Guidelines for Gateways,Web proxies,Using web proxies,0260,"All web access, including that by internal servers, is conducted through web proxies."
+Guidelines for Gateways,Web proxies,Web proxy event logging,0261,"The following details are logged for websites accessed via web proxies:
+• address
+• date and time
+• user
+• amount of data uploaded and downloaded
+• internal and external IP addresses."
+Guidelines for Gateways,Web proxies,Web proxy event logging,1777,Web proxy event logs are stored centrally.
+Guidelines for Gateways,Web content filters,Using web content filters,0963,Web content filtering is implemented to filter potentially harmful web-based content.
+Guidelines for Gateways,Web content filters,Using web content filters,0961,Client-side active content is restricted by web content filters to an organisation-approved list of domain names.
+Guidelines for Gateways,Web content filters,Using web content filters,1237,Web content filtering is applied to outbound web traffic where appropriate.
+Guidelines for Gateways,Web content filters,Transport Layer Security filtering,0263,TLS traffic communicated through gateways is decrypted and inspected.
+Guidelines for Gateways,Web content filters,Allowing and blocking access to domain names,0958,"An organisation-approved list of domain names, or list of website categories, is implemented for all Hypertext Transfer Protocol and Hypertext Transfer Protocol Secure traffic communicated through gateways."
+Guidelines for Gateways,Web content filters,Allowing and blocking access to domain names,1236,"Malicious domain names, dynamic domain names and domain names that can be registered anonymously for free are blocked by web content filters."
+Guidelines for Gateways,Web content filters,Allowing and blocking access to domain names,1171,Attempts to access websites through their IP addresses instead of their domain names are blocked by web content filters.
+Guidelines for Gateways,Content filtering,Performing content filtering,0659,Files imported or exported via gateways or CDSs undergo content filtering checks.
+Guidelines for Gateways,Content filtering,Performing content filtering,0651,"Files identified by content filtering checks as malicious, or that cannot be inspected, are blocked."
+Guidelines for Gateways,Content filtering,Performing content filtering,0652,Files identified by content filtering checks as suspicious are quarantined until reviewed and subsequently approved or not approved for release.
+Guidelines for Gateways,Content filtering,Encrypted files,1293,Encrypted files imported or exported via gateways or CDSs are decrypted in order to undergo content filtering checks.
+Guidelines for Gateways,Content filtering,Archive files,1289,Archive files imported or exported via gateways or CDSs are unpacked in order to undergo content filtering checks.
+Guidelines for Gateways,Content filtering,Archive files,1290,Archive files are unpacked in a controlled manner to ensure content filter performance or availability is not adversely affected.
+Guidelines for Gateways,Content filtering,Antivirus scanning,1288,Files imported or exported via gateways or CDSs undergo antivirus scanning using multiple different scanning engines.
+Guidelines for Gateways,Content filtering,Automated dynamic analysis,1389,Executable files imported via gateways or CDSs are automatically executed in a sandbox to detect any suspicious behaviour.
+Guidelines for Gateways,Content filtering,Allowing specific content types,0649,Files imported or exported via gateways or CDSs are filtered for allowed file types.
+Guidelines for Gateways,Content filtering,Content validation,1284,Files imported or exported via gateways or CDSs undergo content validation.
+Guidelines for Gateways,Content filtering,Content conversion,1286,Files imported or exported via gateways or CDSs undergo content conversion.
+Guidelines for Gateways,Content filtering,Content sanitisation,1287,Files imported or exported via gateways or CDSs undergo content sanitisation.
+Guidelines for Gateways,Content filtering,Validating file integrity,0677,Files imported or exported via gateways or CDSs that have a digital signature or cryptographic checksum are validated.
+Guidelines for Gateways,Peripheral switches,Using peripheral switches,0591,Evaluated peripheral switches are used when sharing peripherals between systems.
+Guidelines for Data Transfers,Data transfers,Data transfer processes and procedures,0663,"Data transfer processes, and supporting data transfer procedures, are developed, implemented and maintained."
+Guidelines for Data Transfers,Data transfers,User responsibilities,0661,Users transferring data to and from systems are held accountable for data transfers they perform.
+Guidelines for Data Transfers,Data transfers,Manual import of data,0657,"When manually importing data to systems, the data is scanned for malicious and active content."
+Guidelines for Data Transfers,Data transfers,Manual import of data,1778,"When manually importing data to systems, all data that fails security checks is quarantined until reviewed and subsequently approved or not approved for release."
+Guidelines for Data Transfers,Data transfers,Manual export of data,1187,"When manually exporting data from systems, the data is checked for unsuitable protective markings."
+Guidelines for Data Transfers,Data transfers,Manual export of data,1779,"When manually exporting data from systems, all data that fails security checks is quarantined until reviewed and subsequently approved or not approved for release."
+Guidelines for Data Transfers,Data transfers,Monitoring data import and export,1586,Data transfer logs are used to record all data imports and exports from systems.
+Guidelines for Data Transfers,Data transfers,Monitoring data import and export,1294,Data transfer logs for systems are partially verified at least monthly.
