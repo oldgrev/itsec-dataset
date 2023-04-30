@@ -1,0 +1,4 @@
+An incomplete excerpt from the ACSC ISM has been provided in the input. Generate an IT Security focussed QnA using the input:
+
+### Input:
+{input}
